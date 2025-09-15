@@ -1,0 +1,74 @@
+[
+  {
+    "report_dir": "reports/20250915-133411-tốc-độ-tăng-trưởng-kép-hàng-năm-cagr-của-lĩnh-vực-dự-án-bnb-",
+    "question": "Tốc độ tăng trưởng kép hàng năm (CAGR) của lĩnh vực dự án bnb hoạt động có được dự báo > 20% không?CAGR chung của blockchain, dApp, Smart Contract (Grandview)",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  {
+    "report_dir": "reports/20250915-133411-lịch-trình-trả-token-vesting-cho-đội-ngũ-và-nhà-đầu-tư-của-b",
+    "question": "Lịch trình trả token (vesting) cho đội ngũ và nhà đầu tư của bnb có được thiết kế để trả dần theo từng đợt nhỏ, thay vì mở khóa một lượng lớn tại một thời điểm không? (Linear)",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  {
+    "report_dir": "reports/20250915-133411-giải-pháp-của-dự-án-bnb-có-mang-lại-một-lợi-ích-vượt-trội-ít",
+    "question": "Giải pháp của dự án bnb có mang lại một lợi ích vượt trội ít nhất 5-10 lần (về tốc độ, chi phí, hoặc sự tiện lợi) so với giải pháp hiện có không?",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  {
+    "report_dir": "reports/20250915-133411-thời-gian-để-50-token-bnb-được-phát-hành-ban-đầu-có-lớn-hơn-",
+    "question": "Thời gian để 50% token bnb được phát hành ban đầu có lớn hơn 2 năm không?",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  {
+    "report_dir": "reports/20250915-133411-tỷ-lệ-mở-khóa-ở-tge-cho-early-participants-của-bnb-có-5-tổng",
+    "question": "Tỷ lệ mở khóa ở TGE cho early participants của bnb có <5% tổng cung không?",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  {
+    "report_dir": "reports/20250915-133411-thiết-kế-tokenomics-của-bnb-có-cho-phép-điều-chỉnh-các-thông",
+    "question": "Thiết kế tokenomics của bnb có cho phép điều chỉnh các thông số (ví dụ: tỷ lệ phần thưởng, phí) để thích ứng với điều kiện thị trường thay đổi trong tương lai không?",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  {
+    "report_dir": "reports/20250915-133411-bnb-có-cơ-chế-phạt-ví-dụ-slashing-cho-các-hành-vi-độc-hại-ho",
+    "question": "bnb có cơ chế phạt (ví dụ: slashing) cho các hành vi độc hại hoặc gây tổn hại cho giao thức không?",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  {
+    "report_dir": "reports/20250915-133412-dự-án-bnb-có-cơ-chế-đo-lường-cụ-thể-phần-khuyến-khích-dựa-tr",
+    "question": "Dự án bnb có cơ chế đo lường cụ thể phần khuyến khích dựa trên đóng góp không?",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  },
+  {
+    "report_dir": "reports/20250915-133412-dự-án-project-có-cơ-chế-khuyến-khích-thúc-đẩy-việc-đóng-góp-",
+    "question": "Dự án {project} có cơ chế khuyến khích thúc đẩy việc đóng góp của cộng đồng không? (cung cấp thanh khoản, tham gia quản trị)",
+    "verdict": "Không có đủ thông tin",
+    "detail_bullets": [],
+    "citations": [],
+    "error": "InvalidArgument: 400 API key not valid. Please pass a valid API key. [reason: \"API_KEY_INVALID\"\ndomain: \"googleapis.com\"\nmetadata {\n  key: \"service\"\n  value: \"generativelanguage.googleapis.com\"\n}\n, locale: \"en-US\"\nmessage: \"API key not valid. Please pass a valid API key.\"\n]"
+  }
+]

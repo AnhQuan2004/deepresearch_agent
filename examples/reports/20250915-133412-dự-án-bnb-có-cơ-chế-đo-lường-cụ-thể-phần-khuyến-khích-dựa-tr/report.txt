@@ -1,0 +1,269 @@
+# Phân tích Cơ chế Khuyến khích và Đo lường Đóng góp của Dự án BNB Chain
+
+## Table of Contents
+
+1. Chương trình Nâng cấp Ưu đãi BNB Chain trị giá 100 triệu USD
+2. Chương trình Khuyến khích Thanh khoản trị giá 100 triệu USD cho việc niêm yết trên CEX
+3. Các Chương trình Khuyến khích TVL và Giữ chân Stablecoin
+4. Quản lý Rủi ro và Biện pháp Chống gian lận
+
+## Chương trình Nâng cấp Ưu đãi BNB Chain trị giá 100 triệu USD
+
+Vào ngày 15 tháng 9 năm 2025, BNB Chain đã chính thức công bố một bản nâng cấp quan trọng cho "Chương trình Ưu đãi BNB Chain trị giá 100 triệu USD". Sự thay đổi này được đưa ra sau một giai đoạn thử nghiệm kéo dài ba tuần cho thấy phiên bản ban đầu không đạt hiệu quả như mong đợi. Theo đó, chương trình đã thay đổi chiến lược cơ bản: thay vì khuyến khích các sàn giao dịch tập trung (CEX) niêm yết token, BNB Chain Foundation giờ đây sẽ trực tiếp mua tài sản như một khoản đầu tư từ các dự án được chọn lọc trong nhóm các dự án đủ điều kiện .
+
+### Mục tiêu và Thay đổi Trọng tâm
+
+Sự thay đổi trọng tâm này nhằm mục đích hỗ trợ trực tiếp các dự án có hiệu suất và bảo mật tốt trên chuỗi. BNB Chain Foundation sẽ tiến hành đầu tư tối thiểu 100.000 USD vào tài sản của mỗi dự án được lựa chọn, với toàn quyền quyết định thời điểm mua và quản lý các tài sản đã mua .
+
+### Tiêu chí Đủ điều kiện Nhận đầu tư
+
+Để đủ điều kiện tham gia nhóm dự án có thể nhận được đầu tư từ BNB Chain Foundation, các dự án phải đáp ứng các tiêu chí nghiêm ngặt về cả hiệu suất và bảo mật. Các tiêu chí này được phân loại cho hai nhóm tài sản chính: "Tài sản dựa trên Giao dịch" (Trading Driven Assets) và "Tài sản dựa trên TVL" (TVL Driven Assets) .
+
+#### 1. Yêu cầu chung về Hiệu suất
+
+Tất cả các dự án, bất kể thuộc nhóm nào, đều phải đáp ứng hai yêu cầu cơ bản sau:
+
+*   **Vốn hóa thị trường (Market Capitalization):** Phải đạt tối thiểu **1 triệu USD** .
+*   **Số lượng nhà giao dịch hoạt động trung bình hàng ngày (Average Daily Active Traders):** Phải có ít nhất **300** nhà giao dịch hoạt động trung bình mỗi ngày .
+
+#### 2. Yêu cầu cụ thể theo Loại Tài sản
+
+Ngoài các yêu cầu chung, mỗi loại tài sản phải đáp ứng một tiêu chí hiệu suất riêng:
+
+*   **Đối với Tài sản dựa trên Giao dịch (Trading Driven Assets):** Các dự án này cần chứng minh khối lượng giao dịch đáng kể, với **khối lượng giao dịch trung bình hàng ngày (Average Daily Trading Volume) phải đạt ít nhất 200.000 USD** .
+*   **Đối với Tài sản dựa trên TVL (TVL Driven Assets):** Các dự án này, thường là các giao thức DeFi, cần thể hiện khả năng thu hút và giữ chân vốn, với **Tổng giá trị bị khóa (Total Value Locked - TVL) phải đạt ít nhất 20 triệu USD** .
+
+#### 3. Yêu cầu về Bảo mật
+
+Bảo mật là một yếu tố cực kỳ quan trọng để được xem xét. Các dự án phải đáp ứng các tiêu chí sau để đảm bảo an toàn cho người dùng và tính bền vững của dự án:
+
+*   **Phân phối Token:** **10 tài khoản bên ngoài (EOA) hàng đầu** phải nắm giữ chung **dưới hoặc bằng 10% tổng nguồn cung** của token. Tiêu chí này không tính đến các ví thuộc sàn giao dịch tập trung (CEX) và các ví đã biết của CZ, nhằm đảm bảo tính phi tập trung và giảm thiểu rủi ro thao túng thị trường từ một nhóm nhỏ các chủ sở hữu .
+*   **Xác minh và Kiểm toán:** Dự án phải đáp ứng một trong hai điều kiện sau:
+    *   **Xác minh hợp đồng token trên BscScan**, hoặc
+    *   **Vượt qua một cuộc kiểm toán bảo mật (security audit)** từ một công ty uy tín .
+
+Ngoài các tiêu chí cứng này, BNB Chain cũng tuyên bố rằng các dự án sẽ được xem xét trên nhiều phương diện khác để đánh giá các rủi ro tài chính hoặc rủi ro liên quan đến hợp đồng thông minh .
+
+### Quy trình Đầu tư và Công bố Thông tin
+
+#### 1. Lựa chọn và Mức đầu tư
+
+Sau khi một dự án được xác định là đủ điều kiện, BNB Chain Foundation sẽ chọn các dự án từ nhóm đủ điều kiện và đầu tư ít nhất **100.000 USD** vào tài sản của mỗi dự án .
+
+#### 2. Công bố và Minh bạch
+
+Sau khi hoàn tất việc mua token của một dự án, một thông báo chính thức sẽ được đăng trên tài khoản X (trước đây là Twitter) của BNB Chain. Địa chỉ ví cụ thể được sử dụng cho việc mua token này là: `0x511DfE9E248c887E32ca8bF9d1cb76f101965060` .
+
+#### 3. Loại tài sản ưu tiên
+
+Chương trình ưu tiên và khuyến khích các token 100% gốc của BNB Chain, bao gồm cả tài sản mới hoặc hiện có, hoặc các tài sản đã được chuyển hoàn toàn từ các chuỗi khác .
+
+### Điểm khác biệt so với Chương trình trước
+
+Chương trình nâng cấp này thay thế cho một sáng kiến trước đó có tên "Chương trình Ưu đãi Thanh khoản trị giá 100 triệu USD của BNB Chain cho việc niêm yết trên CEX" (BNB Chain $100M Liquidity Incentive for CEX Listings), được công bố vào tháng 3 năm 2024. Chương trình cũ tập trung vào việc thưởng cho các sàn CEX để niêm yết các token gốc của BNB Chain, với mức thưởng lên tới 500.000 USD . Chương trình mới đã chuyển trọng tâm từ việc khuyến khích các bên trung gian (CEX) sang việc đầu tư trực tiếp vào các dự án dựa trên hiệu suất và bảo mật trên chuỗi, thể hiện một cách tiếp cận trực tiếp và tập trung hơn vào việc xây dựng hệ sinh thái .
+
+## Chương trình Khuyến khích Thanh khoản trị giá 100 triệu USD cho việc niêm yết trên CEX
+
+BNB Chain đã khởi xướng một chương trình đầy tham vọng trị giá 100 triệu USD nhằm tăng cường tính thanh khoản và thúc đẩy sự phát triển của các dự án trong hệ sinh thái của mình. Ban đầu, chương trình này được thiết kế như một "Chương trình Khuyến khích Thanh khoản cho việc niêm yết trên các sàn giao dịch tập trung (CEX)" [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program). Mục tiêu chính là khuyến khích các sàn giao dịch niêm yết các token gốc của BNB Chain, qua đó hỗ trợ các dự án trong nhiều lĩnh vực khác nhau như meme, AI, DeFi, và gaming [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+
+Tuy nhiên, kể từ khi ra mắt vào tháng 3 năm 2025, chương trình đã có những thay đổi chiến lược quan trọng. Sau một giai đoạn thử nghiệm, chương trình đã được nâng cấp và chuyển đổi từ mô hình khuyến khích niêm yết sang mô hình mua lại token trực tiếp từ các dự án đủ điều kiện [2](BNB Chain Blog: "$100M BNB Chain Incentive Program Upgrade", April 18, 2025)[3](Chainwire: "BNB Chain Enhances $100M Liquidity Incentive Program with Direct Token Investment", April 18, 2025).
+
+### Yêu cầu và Tiêu chuẩn Ban đầu (Tháng 3, 2025)
+
+Khi chương trình Khuyến khích Thanh khoản cho việc niêm yết trên CEX được công bố lần đầu, mục tiêu là thưởng cho các dự án gốc của BNB Chain khi được niêm yết trên các sàn CEX hàng đầu. Các phần thưởng này có giá trị từ 10.000 USD đến 500.000 USD cho việc niêm yết trên các nền tảng như Binance, Coinbase, Kraken và OKX [4](https://cryptorank.io/news/feed/696c0-bnb-chain-overhauls-incentive-plan-after-community). Chương trình được triển khai theo cơ chế "ai đến trước, phục vụ trước" cho các dự án đủ điều kiện, với giai đoạn thử nghiệm kéo dài ba tháng [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program), [4](https://cryptorank.io/news/feed/696c0-bnb-chain-overhauls-incentive-plan-after-community).
+
+Để đủ điều kiện tham gia trong giai đoạn đầu, các dự án và token của họ phải đáp ứng các tiêu chí nghiêm ngặt sau:
+
+#### A. Yêu cầu về Token và Số liệu Định lượng:
+
+*   **Tính bản địa (Nativity):** Token phải là 100% gốc của BNB Chain, áp dụng cho cả token mới và hiện có [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+*   **Vốn hóa thị trường (Market Capitalization):** Phải có vốn hóa thị trường tối thiểu là 5 triệu USD [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+*   **Cơ sở người dùng (User Base):** Dự án phải chứng minh có một lượng lớn người dùng, cụ thể là có ít nhất 10.000 địa chỉ ví nắm giữ token (holding addresses). Một "địa chỉ ví nắm giữ" được định nghĩa là một ví chứa lượng token có giá trị ít nhất 100 USD [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+*   **Khối lượng giao dịch (Trading Volume):** Token cần có hoạt động giao dịch đáng kể với khối lượng giao dịch trung bình hàng ngày trên chuỗi (on-chain) tối thiểu là 1 triệu USD. Khối lượng này được tính bằng trung bình của 7 ngày trước ngày chụp nhanh (snapshot) [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+*   **Phân phối Token (Token Distribution):** 10 tài khoản bên ngoài hàng đầu (EOAs - Externally Owned Accounts) phải nắm giữ chung không quá 10% tổng nguồn cung. Tiêu chí này không bao gồm các ví của sàn giao dịch tập trung và các ví đã biết của CZ (Changpeng Zhao). Các dự án được khuyến khích áp dụng các cơ chế khóa token hoặc phát hành theo giai đoạn [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+
+#### B. Yêu cầu về An ninh và Tuân thủ:
+
+*   **Xác minh và Kiểm toán:** Hợp đồng token của dự án phải được xác minh trên BscScan hoặc đã vượt qua một cuộc kiểm toán an ninh thành công [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+*   **Thời gian niêm yết:** Token phải được niêm yết ít nhất 48 giờ trước khi được xem xét đủ điều kiện nhận khuyến khích [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+*   **Quy trình kiểm tra:** BNB Chain thực hiện kiểm tra hàng tuần vào mỗi thứ Ba, bao gồm tất cả các token đủ điều kiện được niêm yết từ thứ Hai của tuần trước đến thứ Hai của tuần hiện tại. Thời điểm chụp nhanh (snapshot) được đặt vào 23:59:59 UTC ngày thứ Ba [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+*   **Chống gian lận:** Chương trình nhấn mạnh việc cảnh giác trước các rủi ro thao túng và "rug-pull". Bất kỳ hoạt động nào như vậy bị phát hiện sẽ dẫn đến việc bị loại khỏi chương trình và không được nhận thưởng. Một cơ chế chống gian lận độc đáo cũng được đưa ra: phần thưởng tương đương 10.000 USD bằng token của BNB Chain sẽ được trao cho người đầu tiên cung cấp bằng chứng hợp lệ về hành vi gian lận, nếu gian lận đó được phát hiện trong vòng ba ngày sau khi công bố người chiến thắng [1](https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program).
+
+### Vận hành Chương trình Ban đầu
+
+Chương trình Khuyến khích Thanh khoản cho việc niêm yết trên CEX đã công bố nhiều đợt nhận thưởng trong giai đoạn đầu. Đợt đầu tiên được công bố vào ngày 27 tháng 3 năm 2025, cung cấp hỗ trợ thanh khoản lên tới 2,3 triệu USD cho năm dự án [5](BNB Chain Blog: "Recipient of $100M Liquidity Incentive For Cex Listing", April 14, 2025). Mặc dù có những tuần không có dự án nào đáp ứng các tiêu chí đủ điều kiện trong giai đoạn này (ví dụ như thông báo đợt thứ ba vào ngày 14 tháng 4 năm 2025), sự ra mắt và vận hành của chương trình đã thể hiện cam kết của BNB Chain trong việc hỗ trợ hệ sinh thái [5](BNB Chain Blog: "Recipient of $100M Liquidity Incentive For Cex Listing", April 14, 2025).
+
+### Kết luận
+
+Chương trình Khuyến khích Thanh khoản trị giá 100 triệu USD của BNB Chain, ban đầu tập trung vào việc khuyến khích niêm yết trên các sàn giao dịch tập trung (CEX), đã đặt ra các tiêu chuẩn nghiêm ngặt về số liệu on-chain, an ninh và phân phối token. Các dự án tham gia cần phải đáp ứng các ngưỡng về vốn hóa thị trường, khối lượng giao dịch, cơ sở người dùng, cũng như các yêu cầu về xác minh hợp đồng và phân phối token phi tập trung. Sau một giai đoạn thử nghiệm, chương trình này đã được nâng cấp, chuyển trọng tâm sang mô hình đầu tư trực tiếp vào các dự án, một sự thay đổi đã được thảo luận chi tiết trong phần trước của báo cáo.
+
+## Các Chương trình Khuyến khích TVL và Giữ chân Stablecoin
+
+BNB Chain đã triển khai một loạt các sáng kiến và chương trình khuyến khích đa dạng nhằm mục tiêu thúc đẩy sự tăng trưởng Tổng giá trị bị khóa (TVL) và tăng cường việc sử dụng stablecoin trong hệ sinh thái của mình. Các chương trình này không chỉ tập trung vào việc cung cấp phần thưởng tài chính trực tiếp mà còn hướng đến việc xây dựng một môi trường bền vững cho các nhà phát triển và người dùng. Hai trong số các sáng kiến nổi bật nhất là "Chương trình Khuyến khích TVL" (TVL Incentive Program) và "Lễ hội Miễn phí Gas" (Gas-Free Carnival).
+
+### 1. Chương trình Khuyến khích TVL (TVL Incentive Program)
+
+Đây là một chương trình cạnh tranh dựa trên các khoản tài trợ, được thiết kế đặc biệt để kích thích sự tăng trưởng trong hệ sinh thái DeFi trên BNB Smart Chain (BSC) và opBNB. Chương trình tập trung vào việc khuyến khích các giao thức trong các lĩnh vực như liquid staking, cơ sở hạ tầng restaking, liquid restaking và tối ưu hóa lợi nhuận [6](https://www.bnbchain.org/en/programs/tvl-incentive).
+
+#### Cơ chế hoạt động và Tiêu chí tính toán
+
+Chương trình sử dụng các phương pháp rõ ràng để đo lường và trao thưởng cho sự tăng trưởng của các dự án tham gia. Các chỉ số chính được tính toán như sau [6](https://www.bnbchain.org/en/programs/tvl-incentive):
+
+*   **TVL gia tăng (tuyệt đối Δ):** Được tính bằng chênh lệch giữa TVL vào cuối và đầu giai đoạn thi đấu. Chỉ số cuối kỳ được xác định bằng cách lấy trung bình TVL trong 7 ngày cuối cùng của cuộc thi. Phép tính này bao gồm tất cả các loại tài sản.
+*   **% Tăng trưởng TVL (tương đối Δ):** Được tính theo công thức: `([TVL trung bình 7 ngày cuối] - [TVL cơ sở]) / [TVL cơ sở]`. TVL cơ sở là TVL trung bình của 7 ngày trước khi cuộc thi bắt đầu.
+*   **BNB Staked gia tăng (tuyệt đối Δ):** Là chênh lệch về lượng BNB được stake vào đầu và cuối cuộc thi, với chỉ số cuối kỳ là trung bình của 7 ngày cuối cùng. Lượng BNB này bao gồm tất cả BNB được stake, restake và các công cụ phái sinh liên quan như Liquid Restaking Tokens (LRTs).
+*   **% Tăng trưởng BNB Staked (tương đối Δ):** Tương tự như tăng trưởng TVL, được tính bằng: `([BNB Staked trung bình 7 ngày cuối] - [BNB Staked cơ sở]) / [BNB Staked cơ sở]`.
+
+BNB Chain cũng chủ động giám sát để tránh việc tính trùng lặp TVL, đảm bảo phần thưởng được ghi nhận cho nguồn gửi tiền ban đầu của người dùng [6](https://www.bnbchain.org/en/programs/tvl-incentive).
+
+Trong chương trình **TVL #4**, cơ chế tính điểm cho **Thử thách TVL** đặc biệt chú trọng đến stablecoin: `(Xếp hạng TVL gia tăng × 50%) + (Xếp hạng Stablecoin gia tăng × 30%) + (Xếp hạng BNB bị khóa gia tăng × 20%)` [7](https://www.bnbchain.org/en/blog/announcing-the-bnb-chain-tvl-4-incentive-program-explore-the-unlimited-potential-of-bnb).
+
+#### Cơ cấu Giải thưởng
+
+Tổng giải thưởng của chương trình lên tới **50.000 BNB**, được trao dưới dạng hỗ trợ ủy quyền (delegation support). Mỗi giao thức có thể nhận tối đa 20.000 BNB và mức hỗ trợ không vượt quá 5% lượng BNB đã stake của giao thức đó. 5 giao thức hàng đầu sẽ nhận được hỗ trợ staking trong thời gian từ 1 đến 3 tháng tùy thuộc vào hiệu suất của họ [6](https://www.bnbchain.org/en/programs/tvl-incentive).
+
+Trong **TVL #4**, tổng giải thưởng lên tới **300.000 USD**, được chia thành:
+
+*   **Thử thách Staking BNB:** Tổng giải thưởng 100.000 USD.
+*   **Thử thách TVL:** Tổng giải thưởng 200.000 USD, được mở khóa linh hoạt dựa trên tổng mức tăng TVL của tất cả những người tham gia [7](https://www.bnbchain.org/en/blog/announcing-the-bnb-chain-tvl-4-incentive-program-explore-the-unlimited-potential-of-bnb).
+
+#### Điều kiện Tham gia
+
+Để tham gia, các giao thức DeFi phải đang xây dựng trên BNB Chain trong các lĩnh vực đã nêu. Các yêu cầu chính bao gồm [6](https://www.bnbchain.org/en/programs/tvl-incentive):
+
+*   Hoàn thành ít nhất hai cuộc kiểm toán bảo mật (security audit) trước hạn chót của cuộc thi.
+*   Đạt được TVL tối thiểu là 10 triệu USD.
+*   Hoàn thành đánh giá rủi ro và bảo mật bởi BNB Chain Foundation.
+
+#### Kết quả và các Dự án Chiến thắng (Chương trình #5)
+
+Vòng thứ năm của chương trình kết thúc vào ngày 21 tháng 3 năm 2025. 5 giao thức hàng đầu đã nhận được Hỗ trợ Ủy quyền, đại diện cho tới 5% lượng BNB gia tăng mà họ đã stake. Các dự án chiến thắng bao gồm [8](https://www.bnbchain.org/en/blog/bnb-chain-tvl-incentive-program-5-concludes-with-delegation-support):
+
+1.  **KERNELDAO:** 3956 BNB (tỷ lệ thưởng 5%)
+2.  **ASTHERUS:** 3512 BNB (tỷ lệ thưởng 4%)
+3.  **YIELDNEST:** 97 BNB (tỷ lệ thưởng 3%)
+4.  **TRANCHESS:** 149 BNB (tỷ lệ thưởng 2%)
+5.  **LISTA-DAO:** 1704 BNB (tỷ lệ thưởng 1%)
+
+### 2. Lễ hội Miễn phí Gas (Gas-Free Carnival)
+
+Đây là một sáng kiến chiến lược nhằm mục đích loại bỏ rào cản chi phí cho người dùng, đặc biệt là trong việc sử dụng stablecoin, từ đó thúc đẩy việc áp dụng và lưu thông chúng trên toàn hệ sinh thái.
+
+#### Mục tiêu và Cơ chế hoạt động
+
+Mục tiêu chính của chương trình là loại bỏ phí giao dịch cho các hoạt động chuyển stablecoin, giúp các giao dịch này trở nên liền mạch và không tốn chi phí [9](https://www.cryptoninjas.net/news/bnb-chain-announces-the-gas-free-carnival-to-facilitate-its-stablecoin-transfers-smoothly/). Cơ chế hoạt động rất đơn giản: BNB Chain miễn phí gas cho các giao dịch chuyển một số loại stablecoin cụ thể trên BNB Smart Chain và opBNB [10](https://www.binance.com/en/square/post/26448528256570).
+
+*   **Các Stablecoin được hỗ trợ:** Chương trình áp dụng cho các stablecoin hàng đầu bao gồm **USDT, USDC, và FDUSD** [11](https://www.bnbchain.org/en/blog/gas-free-carnival-free-usdt-usdc-and-fdusd-transfers-on-bnb-chain-now-extended-for-3-more-months).
+*   **Mở rộng phạm vi:** Sáng kiến này cũng bao gồm việc rút stablecoin miễn phí từ các sàn giao dịch tập trung (CEX) hàng đầu [12](https://chainwire.org/2025/03/25/bnb-chain-extends-gas-free-carnival-for-usdt-usdc-and-fdusd-transfers-until-june-2025/).
+
+#### Thời gian diễn ra
+
+Sự thành công của chương trình đã dẫn đến việc gia hạn nhiều lần. Theo các thông báo gần đây, chương trình đã được gia hạn thêm ba tháng và dự kiến sẽ kéo dài đến **23:59 UTC, ngày 30 tháng 6 năm 2025** [11](https://www.bnbchain.org/en/blog/gas-free-carnival-free-usdt-usdc-and-fdusd-transfers-on-bnb-chain-now-extended-for-3-more-months). Một nguồn tin khác cho biết chương trình sẽ kéo dài đến ngày 31 tháng 7 năm 2025 [10](https://www.binance.com/en/square/post/26448528256570).
+
+Mặc dù chương trình này không trực tiếp đặt ra mục tiêu tăng trưởng TVL cụ thể, nhưng bằng cách thúc đẩy việc sử dụng và lưu chuyển stablecoin—một thành phần quan trọng của DeFi—nó gián tiếp tạo điều kiện thuận lợi cho sự tăng trưởng TVL trên toàn hệ sinh thái.
+
+### 3. Các Chương trình Hỗ trợ Nhà phát triển
+
+Ngoài các chương trình khuyến khích trực tiếp, BNB Chain còn cung cấp một hệ sinh thái hỗ trợ toàn diện cho các nhà xây dựng Web3, gián tiếp góp phần vào sức khỏe và sự tăng trưởng TVL của hệ sinh thái [13](http://bnbchain.org):
+
+*   **Gas Grants:** Cung cấp tài trợ phí gas cho các dự án có sự tăng trưởng về Người dùng hoạt động hàng ngày (DAU) và khối lượng giao dịch.
+*   **Kickstart:** Cung cấp các ưu đãi và giảm giá từ các đối tác trong hệ sinh thái.
+*   **Chương trình Tăng tốc MVB (Most Valuable Builder Accelerator Program):** Ươm tạo cho các dự án Web3 hàng đầu.
+*   **BNB Hack, BNB Incubation Alliance (BIA), Builder Bunker:** Các sáng kiến khác nhằm hỗ trợ các nhà phát triển thông qua các cuộc thi hackathon, liên minh ươm tạo và không gian làm việc chung.
+
+### Kết luận
+
+BNB Chain đã áp dụng một chiến lược đa tầng để thúc đẩy tăng trưởng TVL và việc sử dụng stablecoin. Thông qua các chương trình như **Khuyến khích TVL** với cơ chế thưởng rõ ràng, **Lễ hội Miễn phí Gas** để giảm rào cản cho người dùng, và các chương trình hỗ trợ phát triển, BNB Chain đang tạo ra một môi trường hấp dẫn và cạnh tranh cho cả dự án và người dùng, củng cố vị thế của mình trong bối cảnh công nghệ phi tập trung.
+
+## Quản lý Rủi ro và Biện pháp Chống gian lận
+
+BNB Chain đã triển khai một hệ thống đánh giá rủi ro và các biện pháp chống gian lận đa tầng nhằm đảm bảo tính minh bạch và an toàn cho các dự án tham gia vào hệ sinh thái, đặc biệt là các dự án đăng ký các chương trình khuyến khích. Các quy trình này không chỉ là yêu cầu đầu vào mà còn là một cơ chế giám sát liên tục, kết hợp giữa các tiêu chí bảo mật kỹ thuật nghiêm ngặt, phân tích dữ liệu trên chuỗi (on-chain) và các công cụ giám sát rủi ro chủ động. Mục tiêu chính là bảo vệ người dùng, duy trì sự toàn vẹn của hệ sinh thái và đảm bảo các ưu đãi được trao cho những dự án thực sự có giá trị và an toàn.
+
+### 1. Tiêu Chí Đánh Giá Rủi Ro và Yêu Cầu Bảo Mật Cụ Thể trong Các Chương Trình Khuyến Khích
+
+BNB Chain công bố rõ ràng các tiêu chuẩn đủ điều kiện về bảo mật, kiểm toán và thẩm định dự án cho từng chương trình khuyến khích. Các yêu cầu này là hàng rào phòng thủ đầu tiên để sàng lọc các dự án tiềm năng.
+
+#### Chương trình Khuyến khích TVL (Total Value Locked)
+
+Chương trình này nhằm thúc đẩy sự tăng trưởng về tổng giá trị bị khóa (TVL) trên BNB Smart Chain (BSC) và opBNB. Để tham gia, các dự án phải đáp ứng các yêu cầu bảo mật nghiêm ngặt:
+
+*   **Kiểm toán bảo mật (Security Audits):** Các dự án bắt buộc phải hoàn thành ít nhất hai cuộc kiểm toán bảo mật trước thời hạn nộp hồ sơ cho một số phiên bản của chương trình [6]. Trong các chương trình TVL khác, ít nhất một cuộc kiểm toán bảo mật là bắt buộc [7][14].
+*   **Đánh giá rủi ro của Foundation:** Mọi dự án tham gia đều phải trải qua một quy trình đánh giá rủi ro và bảo mật do chính BNB Chain Foundation thực hiện [6].
+*   **Yêu cầu về TVL:** Dự án cần đạt được tổng giá trị bị khóa tối thiểu 10 triệu USD [6].
+*   **Xác minh và loại trừ:** BNB Chain sẽ tiến hành xác minh để đảm bảo các dự án đáp ứng tiêu chuẩn. Bất kỳ dự án nào không đạt yêu cầu sẽ bị loại khỏi chương trình [6].
+*   **Chống gian lận TVL:** BNB Chain Foundation chủ động theo dõi và phân tích tác động của việc đếm trùng TVL (double-counting) để đảm bảo tính minh bạch và nguồn gốc thực của các khoản tiền gửi từ người dùng [6].
+
+#### Chương trình Nâng cấp Ưu đãi BNB Chain trị giá 100 triệu USD
+
+Chương trình này có bộ tiêu chí chi tiết hơn, bao gồm cả rủi ro tài chính và hợp đồng:
+
+*   **Yêu cầu bảo mật cơ bản:** Dự án phải xác minh hợp đồng token của mình trên BscScan hoặc đã vượt qua ít nhất một cuộc kiểm toán bảo mật [15].
+*   **Đánh giá rủi ro toàn diện:** Dự án sẽ được đánh giá qua nhiều khía cạnh để xác định bất kỳ rủi ro tài chính hoặc rủi ro hợp đồng thông minh nào [15].
+*   **Phân phối Token (Chống cá voi):** Để đảm bảo tính phi tập trung và giảm thiểu rủi ro thao túng, 10 tài khoản bên ngoài hàng đầu (EOAs) không được nắm giữ quá 10% tổng nguồn cung (không tính ví của các sàn giao dịch tập trung và các ví đã biết của CZ). Các dự án cũng được khuyến khích áp dụng cơ chế khóa (lock) hoặc phát hành token theo từng giai đoạn (vesting) [15].
+*   **Tiêu chí dữ liệu trên chuỗi (On-chain Data):**
+    *   **Đối với tài sản dựa trên giao dịch:** Vốn hóa thị trường phải đạt tối thiểu 1 triệu USD, số lượng nhà giao dịch hoạt động trung bình hàng ngày đạt ít nhất 300, và khối lượng giao dịch trung bình hàng ngày phải đạt ít nhất 200.000 USD [15].
+    *   **Đối với tài sản dựa trên TVL:** Vốn hóa thị trường phải đạt tối thiểu 1 triệu USD, số lượng nhà giao dịch hoạt động trung bình hàng ngày đạt ít nhất 300, và Tổng giá trị bị khóa (TVL) phải đạt ít nhất 20 triệu USD. Sự tăng trưởng TVL cũng là một yếu tố đánh giá quan trọng [15].
+
+#### Chương trình Khuyến khích DAU (Daily Active Users)
+
+Chương trình này tập trung vào việc tăng trưởng người dùng hoạt động hàng ngày.
+
+*   **Yêu cầu kiểm toán:** Các dự án tham gia phải hoàn thành ít nhất một cuộc kiểm toán bảo mật [16].
+
+#### Chương trình Khuyến khích Thanh khoản 100 triệu USD cho CEX Listings
+
+Chương trình này hỗ trợ thanh khoản cho các dự án khi niêm yết trên các sàn giao dịch tập trung.
+
+*   **Yêu cầu bảo mật:** Dự án phải xác minh hợp đồng token trên BscScan hoặc vượt qua một cuộc kiểm toán bảo mật [1].
+
+### 2. Các Biện Pháp Chống Gian Lận và Điều Khoản Loại Trừ
+
+Một trong những khía cạnh quan trọng nhất trong quy trình của BNB Chain là quyền loại bỏ các dự án có hành vi gian lận hoặc thao túng. Các điều khoản này được nêu rõ trong quy định của nhiều chương trình:
+
+*   **Phát hiện gian lận và thao túng:** BNB Chain Foundation có toàn quyền loại bỏ bất kỳ người tham gia nào bị phát hiện có hành vi rửa tiền (wash trading), sử dụng địa chỉ ví hàng loạt bất hợp pháp, tự giao dịch (self-dealing), hoặc bất kỳ hình thức thao túng thị trường nào khác [15][16].
+*   **Phân tích rủi ro lừa đảo (Rug-pull):** BNB Chain sẽ phân tích sâu các dự án. Nếu phát hiện bất kỳ dấu hiệu nào cho thấy có rủi ro thao túng hoặc lừa đảo (rug-pull), dự án đó sẽ ngay lập tức bị loại khỏi danh sách nhận thưởng [1].
+*   **Phản hồi từ cộng đồng:** Nếu một dự án bị cộng đồng báo cáo là lừa đảo và có bằng chứng xác thực, dự án đó sẽ bị mất tư cách tham gia [15].
+
+### 3. Khung An Ninh và Các Công Cụ Đánh Giá Rủi Ro của Hệ Sinh Thái
+
+Để thực thi các tiêu chí trên, BNB Chain đã xây dựng một hệ sinh thái an ninh toàn diện với các công cụ và đối tác chuyên nghiệp. Các công cụ này giúp xác định rủi ro một cách chủ động, cung cấp dữ liệu cho việc đánh giá các dự án đăng ký chương trình khuyến khích [17].
+
+*   **DappBay và tính năng "Red Alarm":** DappBay là một nền tảng liệt kê các ứng dụng phi tập trung (dApp) trên BNB Chain, tích hợp tính năng "Red Alarm" để cảnh báo người dùng về các dự án có rủi ro cao. Tính năng này đã xác định hơn 445 dApp và dự án rủi ro, cung cấp mô tả chi tiết về các lỗ hổng bảo mật và xếp hạng rủi ro [17].
+*   **AvengerDAO và Risk Scanner:** AvengerDAO là một liên minh bảo mật do cộng đồng điều hành. Công cụ Risk Scanner của họ cho phép bất kỳ ai quét và xác minh mức độ an toàn của một hợp đồng thông minh trên BSC. Công cụ này đã quét hơn 1 triệu địa chỉ hợp đồng, xác định 35.000 địa chỉ có rủi ro cao và cảnh báo người dùng [17].
+*   **Hợp tác với các đối tác bảo mật:** BNB Chain hợp tác chặt chẽ với các công ty kiểm toán bảo mật hàng đầu như Hacken để cung cấp các dịch vụ chuyên sâu bao gồm kiểm toán hợp đồng thông minh, kiểm thử thâm nhập (penetration testing), chương trình săn lỗi nhận thưởng (bug bounty) và giám sát bằng AI [17].
+*   **Khung rủi ro Web3 (Web3 Risk Framework):** AvengerDAO đã phát triển một khung đánh giá rủi ro toàn diện, tập trung vào các lĩnh vực như Tính liên tục của doanh nghiệp, Ví tiền mã hóa, Tài chính phi tập trung (DeFi), Hợp đồng thông minh và Quản lý dự án [17].
+
+### 4. Mối Liên Hệ Giữa Công Cụ Bảo Mật và Điều Kiện Tham Gia
+
+Mặc dù các chương trình khuyến khích không nêu tên cụ thể các công cụ như "Red Alarm" hay "Risk Scanner" là lý do tự động loại bỏ, nhưng kết quả từ các công cụ này là nguồn dữ liệu quan trọng cho quy trình thẩm định [17]. Nếu một dự án bị DappBay gắn cờ "Red Alarm" hoặc bị Risk Scanner xếp hạng rủi ro cao, đó là một dấu hiệu mạnh mẽ cho thấy dự án có "rủi ro tài chính hoặc hợp đồng" [15] hoặc "dấu hiệu thao túng hoặc rủi ro lừa đảo" [1], và do đó sẽ không đủ điều kiện tham gia các chương trình khuyến khích.
+
+### Kết luận
+
+BNB Chain áp dụng một cách tiếp cận toàn diện và nghiêm ngặt để đảm bảo an toàn và minh bạch cho các chương trình khuyến khích của mình. Quy trình này bao gồm:
+
+1.  **Yêu cầu đầu vào bắt buộc:** Các dự án phải hoàn thành kiểm toán bảo mật và xác minh hợp đồng.
+2.  **Thẩm định đa chiều:** Đánh giá không chỉ về bảo mật kỹ thuật mà còn về các chỉ số trên chuỗi, mô hình phân phối token và các rủi ro tài chính tiềm ẩn.
+3.  **Giám sát chủ động:** Sử dụng các công cụ nội bộ và đối tác như DappBay, AvengerDAO để liên tục quét và xác định các dự án rủi ro trong hệ sinh thái.
+4.  **Chế tài mạnh mẽ:** Quyền loại bỏ ngay lập tức các dự án bị phát hiện có hành vi gian lận, thao túng thị trường hoặc lừa đảo.
+
+Nhờ những biện pháp này, BNB Chain hướng tới việc xây dựng một môi trường bền vững, nơi các chương trình khuyến khích thực sự thúc đẩy sự phát triển của các dự án chất lượng cao và an toàn, đồng thời bảo vệ người dùng và nhà đầu tư.
+
+## References:
+
+[1] https://www.bnbchain.org/en/blog/bnb-chain-100m-permanent-liquidity-program  
+[2] BNB Chain Blog: "$100M BNB Chain Incentive Program Upgrade", April 18, 2025  
+[3] Chainwire: "BNB Chain Enhances $100M Liquidity Incentive Program with Direct Token Investment", April 18, 2025  
+[4] https://cryptorank.io/news/feed/696c0-bnb-chain-overhauls-incentive-plan-after-community  
+[5] BNB Chain Blog: "Recipient of $100M Liquidity Incentive For Cex Listing", April 14, 2025  
+[6] https://www.bnbchain.org/en/programs/tvl-incentive  
+[7] https://www.bnbchain.org/en/blog/announcing-the-bnb-chain-tvl-4-incentive-program-explore-the-unlimited-potential-of-bnb  
+[8] https://www.bnbchain.org/en/blog/bnb-chain-tvl-incentive-program-5-concludes-with-delegation-support  
+[9] https://www.cryptoninjas.net/news/bnb-chain-announces-the-gas-free-carnival-to-facilitate-its-stablecoin-transfers-smoothly/  
+[10] https://www.binance.com/en/square/post/26448528256570  
+[11] https://www.bnbchain.org/en/blog/gas-free-carnival-free-usdt-usdc-and-fdusd-transfers-on-bnb-chain-now-extended-for-3-more-months  
+[12] https://chainwire.org/2025/03/25/bnb-chain-extends-gas-free-carnival-for-usdt-usdc-and-fdusd-transfers-until-june-2025/  
+[13] http://bnbchain.org  
+[14] https://chainwire.org/2024/06/19/bnb-chain-launches-third-tvl-incentive-program-offering-up-to-300k-to-accelerate-growth/  
+[15] https://www.bnbchain.org/en/blog/100m-bnb-chain-incentive-program-upgrade  
+[16] https://www.bnbchain.org/en/blog/bnb-chain-dau-incentive-program-up-to-200-000-in-bnb-to-be-won  
+[17] https://www.bnbchain.org/en/security

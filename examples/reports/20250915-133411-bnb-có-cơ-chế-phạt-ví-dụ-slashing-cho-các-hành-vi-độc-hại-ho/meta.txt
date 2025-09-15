@@ -1,0 +1,5 @@
+query: bnb có cơ chế phạt (ví dụ: slashing) cho các hành vi độc hại hoặc gây tổn hại cho giao thức không?
+slug: bnb-có-cơ-chế-phạt-ví-dụ-slashing-cho-các-hành-vi-độc-hại-ho
+time: 20250915-133411
+len_chars: 17243
+status: success

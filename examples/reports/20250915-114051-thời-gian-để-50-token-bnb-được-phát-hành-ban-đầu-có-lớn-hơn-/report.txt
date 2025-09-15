@@ -1,0 +1,127 @@
+# Phân tích thời gian phát hành 50% nguồn cung ban đầu của Token BNB
+
+## Table of Contents
+
+1. Chi tiết về đợt chào bán tiền xu ban đầu (ICO) của BNB
+2. Phân tích thời gian phát hành
+3. Kết luận: So sánh với mốc thời gian 2 năm
+
+## Chi tiết về đợt chào bán tiền xu ban đầu (ICO) của BNB
+
+#### Thời Gian Diễn Ra Đợt ICO của BNB
+
+Đợt Chào bán Coin Lần đầu (ICO) cho Binance Coin (BNB) chính thức bắt đầu vào ngày 26 tháng 6 năm 2017 và kết thúc vào ngày 3 tháng 7 năm 2017 [1]. Sự kiện này diễn ra sau khi Binance công bố kế hoạch ICO và phát hành sách trắng (whitepaper) chính thức vào ngày 22 tháng 6 năm 2017 [2]. Ban đầu, BNB được phát hành dưới dạng token ERC-20 trên blockchain Ethereum [1, 3]. Sau khi BNB Chain (trước đây là Binance Chain) ra mắt vào năm 2019, người dùng đã có tùy chọn hoán đổi token BNB ERC-20 của họ sang token BEP-2 theo tỷ lệ 1:1 [1].
+
+#### Cơ Cấu Phân Bổ Nguồn Cung Ban Đầu
+
+Tổng nguồn cung ban đầu của BNB là 200 triệu token. Nguồn cung này được phân bổ theo cơ cấu như sau [1]:
+
+*   **50% (100 triệu BNB):** Dành cho đợt bán công khai (ICO) để huy động vốn từ cộng đồng.
+*   **40% (80 triệu BNB):** Dành riêng cho đội ngũ sáng lập và phát triển của Binance.
+*   **10% (20 triệu BNB):** Phân bổ cho các nhà đầu tư thiên thần (angel investors) đã hỗ trợ dự án trong giai đoạn đầu.
+
+#### Chi Tiết Đợt Bán Công Khai (ICO)
+
+Trong tổng nguồn cung ban đầu, 50% số token, tương đương 100 triệu BNB, đã được phân bổ cho đợt bán công khai trong sự kiện ICO [1, 4]. Các chi tiết cụ thể về đợt bán này bao gồm:
+
+*   **Số lượng bán ra:** 100 triệu BNB [1, 4].
+*   **Mức giá ban đầu:** Giá bán trong đợt ICO là 0.15 USD cho mỗi token BNB. Những người tham gia có thể mua 2.700 BNB với 1 ETH vào thời điểm đó [1, 4].
+*   **Kết quả huy động vốn:** Đợt ICO đã huy động thành công 15 triệu USD [1].
+*   **Mục đích sử dụng vốn:** Số tiền huy động được chủ yếu dành cho việc nâng cấp nền tảng giao dịch của Binance, các hoạt động tiếp thị và các sáng kiến giáo dục [1].
+
+Mục tiêu chính của việc tạo ra token BNB là để cung cấp các lợi ích cho người dùng trên nền tảng Binance, chẳng hạn như giảm phí giao dịch, tham gia vào các đợt Chào bán Lần đầu trên Sàn (IEO) và các chương trình khuyến mãi khác [1].
+
+## Phân tích thời gian phát hành
+
+Truy vấn đặt ra là về tổng thời gian thực tế để phát hành 100 triệu token BNB (50% nguồn cung ban đầu) cho các nhà đầu tư trong đợt Chào bán Coin Lần đầu (ICO) của BNB.
+
+Đợt ICO cho Binance Coin (BNB), nhằm phân phối 100 triệu token (chiếm 50% tổng nguồn cung ban đầu), đã diễn ra trong khoảng thời gian **tám ngày**, cụ thể là **từ ngày 26 tháng 6 đến ngày 3 tháng 7 năm 2017** [1, 2, 3]. Do đó, tổng thời gian thực tế để bán số token này cho các nhà đầu tư là khoảng 8 ngày.
+
+### Chi Tiết về Mốc Thời Gian và Các Xác Nhận
+
+Quá trình ICO của Binance Coin được ghi nhận rõ ràng qua nhiều nguồn thông tin đáng tin cậy, cung cấp một khung thời gian cụ thể:
+
+*   **Khung Thời Gian Chính Thức:** Một tài liệu pháp lý từ Ủy ban Giao dịch và Chứng khoán Hoa Kỳ (SEC) chỉ rõ rằng đợt ICO của BNB đã diễn ra "Từ khoảng ngày 26 tháng 6 đến ngày 3 tháng 7 năm 2017" [5]. Đây là khung thời gian được công nhận chính thức cho đợt bán token công khai.
+*   **Xác Nhận từ Nhà Sáng Lập:** Ông Changpeng Zhao (CZ), người sáng lập Binance, đã cung cấp những xác nhận quan trọng về thời điểm kết thúc của đợt ICO:
+    *   Trong một bài đăng trên LinkedIn vào ngày 2 tháng 7 năm 2017, CZ đã tuyên bố: "ICO của Binance vừa kết thúc cách đây vài giờ và đó là một thành công lớn!" [6]. Thông báo này cho thấy việc bán token đã hoàn tất vào hoặc ngay trước ngày 2 tháng 7.
+    *   Tạp chí Forbes cũng đưa tin rằng "đợt ICO 100 triệu token đã hoàn thành vào ngày 3 tháng 7," trích dẫn một bài đăng khác của CZ trên LinkedIn vào ngày đó [7].
+    *   Sự khác biệt nhỏ về ngày kết thúc (ngày 2 và 3 tháng 7) có thể là do chênh lệch múi giờ hoặc thời điểm các thông báo chính thức được công bố rộng rãi. Tuy nhiên, cả hai nguồn đều nhất quán rằng đợt ICO đã kết thúc thành công trong những ngày đầu tiên của tháng 7 năm 2017.
+*   **Thời Gian Chuẩn Bị và Thực Hiện:** Mặc dù CZ có đề cập đến một "khoảng thời gian 16 ngày" để huy động được số vốn 15 triệu USD, ông đã làm rõ rằng con số này bao gồm cả thời gian chuẩn bị cho chiến dịch ICO, không chỉ là khoảng thời gian mở bán công khai cho các nhà đầu tư [6].
+
+### Các Khía Cạnh Chính của Quá Trình ICO
+
+Thành công của đợt ICO còn được hỗ trợ bởi nhiều hoạt động chuẩn bị và tương tác cộng đồng:
+
+*   **Số Vốn Huy Động:** Đợt ICO đã huy động thành công khoảng 15 triệu USD, chủ yếu bằng các loại tiền điện tử khác [1, 2]. (Chi tiết hơn đã được đề cập trong phần trước của báo cáo).
+*   **Sự Tham Gia của Cộng Đồng:** Sự kiện này đã thu hút sự quan tâm lớn từ cộng đồng, với 20.000 "người dùng hạt giống" (seed users) ban đầu đã đầu tư cả về mặt tài chính và tình cảm vào nền tảng [6].
+*   **Hoạt Động Trước ICO:** Để tạo sự thu hút, Binance đã triển khai một chương trình "đăng ký trước để nhận suất mua BNC" (tên ban đầu của token) thông qua hình thức bốc thăm. Chương trình này được mở vào lúc 8 giờ tối ngày 24 tháng 6 năm 2017 và đã ghi nhận 9.000 người đăng ký chỉ trong vòng một ngày [6].
+*   **Phát Triển Sách Trắng (White Paper):** Sách trắng của dự án đóng một vai trò quan trọng trong thành công của ICO. Đội ngũ Binance đã làm việc cật lực, tạo ra các phiên bản tiếng Anh và tiếng Trung và trải qua bốn lần sửa đổi (từ v0.1 đến v0.4) để hoàn thiện [6].
+
+### Giai Đoạn Sau ICO
+
+Sau khi ICO thành công:
+
+*   **Bắt Đầu Giao Dịch:** Sàn giao dịch Binance chính thức đi vào hoạt động và cho phép giao dịch BNB 11 ngày sau khi kết thúc ICO [8].
+*   **Phần Thưởng cho Nhân Viên:** Theo các báo cáo, sau thành công của đợt ICO, nhân viên của Binance đã nhận được một khoản thưởng bổ sung bằng Binance Coin. Bản thân CZ được cho là đã nhận 50.000 BNB.
+
+### Kết Luận
+
+Mặc dù không có một dấu thời gian chính xác đến từng giờ cho việc token thứ 100 triệu được bán hết, các nguồn thông tin đáng tin cậy đều đồng thuận rằng toàn bộ quá trình ICO để phân phối 100 triệu token BNB cho các nhà đầu tư đã diễn ra và hoàn tất trong khoảng thời gian xấp xỉ 8 ngày, bắt đầu từ ngày 26 tháng 6 và kết thúc vào ngày 3 tháng 7 năm 2017.
+
+## Kết luận: So sánh với mốc thời gian 2 năm
+
+Dựa trên các kết quả nghiên cứu, đây là câu trả lời chi tiết cho truy vấn của bạn.
+
+**Truy vấn:** So với mốc thời gian hai năm, thời gian cần thiết để 50% số token BNB được phát hành ban đầu có lớn hơn không?
+
+**Câu trả lời:**
+Không, thời gian cần thiết để 50% số token BNB được phát hành ban đầu được tung ra thị trường **ngắn hơn đáng kể** so với mốc thời gian hai năm. Trên thực tế, 50% tổng cung ban đầu đã được phát hành ngay tại thời điểm Đợt Chào bán Coin Lần đầu (ICO).
+
+### Phân tích chi tiết về việc phân bổ và phát hành Token BNB
+
+Để hiểu rõ tại sao, chúng ta cần xem xét cơ cấu phân bổ token BNB ban đầu và lịch trình phát hành của từng nhóm. Tổng cung ban đầu của BNB là 200 triệu token, được phân bổ như sau:
+
+*   **Bán công khai (ICO):** 50% (tương đương 100 triệu BNB) [8, 9].
+*   **Đội ngũ sáng lập:** 40% (tương đương 80 triệu BNB) [8, 9].
+*   **Nhà đầu tư thiên thần:** 10% (tương đương 20 triệu BNB) [8, 9].
+
+Câu hỏi đặt ra là mất bao lâu để 50% tổng cung (tức là 100 triệu BNB) được phát hành.
+
+#### Phát hành Token qua Bán Công khai (ICO)
+
+Phần lớn nhất trong cơ cấu phân bổ, chiếm đúng 50% tổng cung, đã được dành cho đợt bán công khai (ICO). Các token được bán trong ICO thường được xem là đã phát hành và có thể giao dịch ngay sau khi đợt bán kết thúc. Do đó, **100 triệu BNB đã được đưa vào lưu thông ngay từ đầu**, đáp ứng ngay lập tức yêu cầu phát hành 50% tổng số token [8, 10].
+
+#### Lịch trình Vesting (Mở khóa) cho các phần còn lại
+
+50% còn lại của tổng cung token BNB được phân bổ cho đội ngũ sáng lập và các nhà đầu tư thiên thần, và chúng phải tuân theo một lịch trình mở khóa (vesting) kéo dài để đảm bảo sự cam kết lâu dài với dự án.
+
+*   **Nhà đầu tư thiên thần (10% / 20 triệu BNB):** Số token này có thời gian khóa là một năm ("1Y unlock period") [16]. Điều này có nghĩa là các nhà đầu tư ban đầu phải đợi một năm trước khi token của họ bắt đầu được mở khóa.
+*   **Đội ngũ sáng lập (40% / 80 triệu BNB):** Số token dành cho đội ngũ sáng lập được mở khóa dần đều trong vòng 5 năm ("vesting equally over 5 years") [11, 12]. Sách trắng của Binance cũng đề cập đến một đợt phát hành ban đầu là 20% (tương đương 16 triệu BNB) cho đội ngũ, sau đó là các đợt phát hành tiếp theo hàng năm [2].
+
+Mặc dù có lịch trình mở khóa kéo dài cho đội ngũ và nhà đầu tư, điều này không ảnh hưởng đến thực tế là 50% tổng cung đã được phát hành ngay từ thời điểm ICO. Toàn bộ quá trình vesting cho tất cả các token BNB đã hoàn tất vào ngày 27 tháng 7 năm 2021 [16].
+
+### Kết luận
+
+Thời gian cần thiết để 50% số token BNB ban đầu được phát hành là gần như tức thì, trùng với thời điểm kết thúc đợt ICO. 100 triệu token BNB (50% tổng cung) đã được bán công khai và đưa vào lưu thông ngay lập tức. Đợt ICO này chỉ diễn ra trong vòng 8 ngày (từ 26/6 đến 3/7/2017) [12]. Do đó, khoảng thời gian này không lớn hơn hai năm mà ngắn hơn rất nhiều.
+
+## References:
+
+[1] https://coincodex.com/ico/binance-coin/  
+[2] https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf  
+[3] https://www.binance.com/research/projects/bnb  
+[4] https://academy.binance.com/en/glossary/bnb  
+[5] https://www.sec.gov/files/litigation/complaints/2023/comp-pr2023-101.pdf  
+[6] https://www.linkedin.com/pulse/binancecom-ico-experience-lessons-advices-changpeng-zhao  
+[7] https://www.forbes.com/sites/digital-assets/2023/10/05/how-binance-turned-its-failed-token-ico-into-a-billion-dollar-windfall/  
+[8] https://forklog.com/en/changpeng-zhao-reveals-binances-remote-workforce-size/  
+[9] https://academy.binance.com/en/articles/what-is-binance-coin  
+[10] https://coinmarketcap.com/currencies/bnb/  
+[11] https://www.binance.com/en/blog/ecosystem/everything-you-need-to-know-about-binance-coin-2019-version-2302302195931663183  
+[12] https://www.sec.gov/litigation/complaints/2023/comp-pr2023-102.pdf  
+[13] https://www.linkedin.com/pulse/binance-ico-completed-successful-changpeng-zhao-cz-binance/  
+[14] https://www.forbes.com/sites/jeffkauflin/2018/02/07/how-binance-became-the-worlds-biggest-crypto-exchange/?sh=513d66dd65dd  
+[15] https://www.binance.com/en/square/post/7933611384074  
+[16] https://messari.io/project/binance/token-unlocks  
+[17] https://www.investopedia.com/terms/b/binance-coin-bnb.asp  
+[18] https://medium.com/wharton-fintech/spotlight-on-binance-coin-f8005573e02  
+[19] https://www.binance.com/en/square/post/17566654693618

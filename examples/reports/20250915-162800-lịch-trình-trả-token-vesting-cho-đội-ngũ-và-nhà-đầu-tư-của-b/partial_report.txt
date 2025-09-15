@@ -1,0 +1,23 @@
+# Phân tích lịch trình trả token (Vesting) của BNB
+
+## Phân bổ token BNB ban đầu
+
+Key question: Tỷ lệ phân bổ token BNB (binance.com) cho đội ngũ sáng lập, nhà đầu tư thiên thần và những người tham gia ICO trong đợt Chào bán tiền xu lần đầu là bao nhiêu?
+
+## Lịch trình trả token (Vesting) cho đội ngũ Binance
+
+Key question: Lịch trình trả token (vesting) cho đội ngũ sáng lập Binance (binance.com) được cấu trúc như thế nào? Đó là một lịch trình tuyến tính (linear) hay theo từng đợt (cliff), và thời gian kéo dài là bao lâu?
+
+## Lịch trình trả token (Vesting) cho các nhà đầu tư thiên thần
+
+Key question: Chi tiết về lịch trình trả token (vesting) được áp dụng cho các nhà đầu tư thiên thần của BNB (binance.com) là gì?
+
+## So sánh với các thông lệ trong ngành
+
+Key question: Lịch trình trả token (vesting) của BNB (binance.com) so với các sàn giao dịch tiền điện tử lớn khác và các dự án blockchain được ra mắt trong cùng thời kỳ như thế nào?
+
+## Background Context
+
+BNB, ban đầu là một token ERC-20 trên mạng Ethereum, đã được ra mắt thông qua đợt Chào bán tiền xu lần đầu (ICO) vào tháng 7 năm 2017. Tổng nguồn cung ban đầu là 200 triệu token. Việc phân bổ được cấu trúc như sau: 50% (100 triệu) cho những người tham gia ICO, 40% (80 triệu) cho đội ngũ sáng lập và 10% (20 triệu) cho các nhà đầu tư thiên thần. Các quỹ huy động được từ ICO chủ yếu được sử dụng để phát triển nền tảng giao dịch Binance, cũng như cho các sáng kiến tiếp thị và giáo dục. Những người tham gia ICO đã nhận được token của họ trong vòng 5 ngày làm việc sau khi ICO kết thúc.
+
+Một cơ chế vesting đã được áp dụng cho các token được phân bổ cho đội ngũ sáng lập để đảm bảo cam kết lâu dài và ngăn chặn việc bán tháo quy mô lớn. Mặc dù các chi tiết cụ thể về lịch trình vesting này không được công khai rộng rãi trong các tài liệu ban đầu, nhưng thông lệ tiêu chuẩn trong ngành vào thời điểm đó đối với các dự án tiền điện tử là thực hiện thời gian vesting từ 3-4 năm với thời gian khóa ban đầu (cliff) từ 6-12 tháng. Cách tiếp cận này nhằm mục đích điều chỉnh lợi ích của đội ngũ với sự thành công lâu dài của dự án và duy trì sự ổn định của thị trường.

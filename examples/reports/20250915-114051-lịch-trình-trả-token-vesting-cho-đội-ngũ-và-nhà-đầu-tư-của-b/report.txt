@@ -1,0 +1,153 @@
+# Phân tích Lịch trình Trả token (Vesting) của BNB cho Đội ngũ và Nhà đầu tư
+
+## Table of Contents
+
+1. Cấu trúc Lịch trình Vesting của Đội ngũ Sáng lập BNB
+2. Điều khoản Vesting cho các Nhà đầu tư Thiên thần
+3. Phân phối Token qua Initial Coin Offering (ICO)
+4. Phân tích và Đánh giá Mô hình Vesting của BNB
+
+## Tổng quan về Phân bổ Token BNB Ban đầu
+
+Để hiểu rõ lịch trình vesting của đội ngũ sáng lập, cần xem xét việc phân bổ token BNB trong đợt Chào bán Coin lần đầu (ICO) diễn ra vào tháng 7 năm 2017. Tổng nguồn cung ban đầu của BNB là 200 triệu token, và được phân chia như sau (https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf):
+
+*   **Chào bán Công khai (ICO):** 50% tổng cung, tương đương 100.000.000 BNB.
+*   **Nhà đầu tư Thiên thần (Angel Investors):** 10% tổng cung, tương đương 20.000.000 BNB.
+*   **Đội ngũ Sáng lập (Founding Team):** 40% tổng cung, tương đương 80.000.000 BNB.
+
+Lịch trình vesting được áp dụng cho 80 triệu BNB được phân bổ cho đội ngũ sáng lập nhằm đảm bảo cam kết lâu dài của họ đối với sự phát triển của dự án.
+
+## Cấu trúc và Lịch trình Vesting Chi tiết cho Đội ngũ Sáng lập
+
+Lịch trình trả token cho đội ngũ sáng lập Binance được thiết kế kéo dài trong 5 năm, với cơ chế mở khóa tuyến tính (linear vesting) hàng năm. Cụ thể, mỗi năm, 20% trong tổng số 80 triệu BNB của đội ngũ sẽ được mở khóa (https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf), (https://messari.io/asset/binance-coin/profile).
+
+*   **Tổng thời gian Vesting:** 5 năm (từ tháng 7/2017 đến tháng 7/2022).
+*   **Tỷ lệ mở khóa hàng năm:** 20% trên tổng số token được phân bổ cho đội ngũ (tức là 20% của 80 triệu BNB).
+*   **Số lượng mở khóa hàng năm:** 16.000.000 BNB.
+
+**Bảng Tóm tắt Lịch trình Vesting của Đội ngũ Sáng lập:**
+
+| Mốc Thời gian (Kết thúc năm) | Tỷ lệ Mở khóa (Hàng năm) | Số lượng BNB Mở khóa trong năm | Tổng số BNB đã Mở khóa (Tích lũy) |
+| :------------------- | :--------------------- | :--------------------------- | :-------------------------------- |
+| Tháng 7, 2018        | 20%                    | 16.000.000                   | 16.000.000                      |
+| Tháng 7, 2019        | 20%                    | 16.000.000                   | 32.000.000                      |
+| Tháng 7, 2020        | 20%                    | 16.000.000                   | 48.000.000                      |
+| Tháng 7, 2021        | 20%                    | 16.000.000                   | 64.000.000                      |
+| Tháng 7, 2022        | 20%                    | 16.000.000                   | 80.000.000                      |
+
+## Tình trạng Hiện tại (Tính đến ngày 15/09/2025)
+
+Lịch trình vesting kéo dài 5 năm dành cho đội ngũ sáng lập Binance đã **chính thức hoàn thành vào tháng 7 năm 2022**. Điều này có nghĩa là toàn bộ 80 triệu BNB được phân bổ cho đội ngũ đã được mở khóa hoàn toàn và không còn bị ràng buộc bởi bất kỳ lịch trình trả token nào nữa.
+
+## Cam kết Đốt Token (Token Burn) và Tác động đến Đội ngũ Sáng lập
+
+Một yếu tố quan trọng khác trong mô hình kinh tế của BNB là cam kết của Binance về việc đốt token. Theo sách trắng ban đầu, Binance cam kết sử dụng 20% lợi nhuận hàng quý để mua lại và đốt (loại bỏ vĩnh viễn) BNB cho đến khi 50% tổng cung (tức 100 triệu BNB) bị tiêu hủy (https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf), (https://www.binance.com/en/blog/from-cz/a-letter-from-the-ceo-our-commitment-to-the-binance-community-313593925712740352).
+
+Điều quan trọng cần lưu ý là cam kết đốt 100 triệu BNB này bao gồm cả số token được phân bổ cho đội ngũ sáng lập. Binance đã tuyên bố rõ ràng rằng đội ngũ sẽ từ bỏ số token của họ tương ứng với chương trình đốt coin (https://www.binance.com/en/blog/from-cz/a-letter-from-the-ceo-our-commitment-to-the-binance-community-313593925712740352). Do đó, trên thực tế, đội ngũ sáng lập sẽ không nhận được toàn bộ 80 triệu BNB, vì một phần đáng kể trong số đó đã và sẽ bị đốt theo cơ chế giảm phát của đồng coin này, giúp giảm tổng cung lưu hành của BNB.
+
+## Điều khoản Vesting cho các Nhà đầu tư Thiên thần
+
+Dựa trên các tài liệu và phân tích về đợt Phát hành Coin Lần đầu (ICO) của Binance vào năm 2017, không có thông tin công khai chi tiết nào về lịch trình trả token (vesting schedule) hoặc các điều khoản khóa (lock-up) dành riêng cho nhóm nhà đầu tư thiên thần (Angel Investors). Một nguồn phân tích tokenomics đã khẳng định trực tiếp rằng: "Nhà đầu tư thiên thần: Chi tiết về việc khóa token không được nêu rõ hoàn toàn" [4](https://www.mexc.com/price/BNB/tokenomics). Do đó, không thể xác định liệu lịch trình của họ có tương tự như đội ngũ sáng lập hay không và cũng không thể nêu rõ các điều khoản mở khóa cụ thể.
+
+### Phân bổ Token cho Nhà đầu tư Thiên thần
+
+**1. Phân bổ theo Sách trắng Ban đầu**
+
+Theo sách trắng gốc của Binance, một phần đáng kể của tổng nguồn cung token BNB đã được dành cho các nhà đầu tư sớm. Cụ thể, 10% tổng nguồn cung, tương đương 20 triệu BNB, đã được phân bổ cho các nhà đầu tư thiên thần [1](https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf), [5](https://www.binance.com/en/square/post/21491011345634). Đây là con số được công bố chính thức trong kế hoạch phân phối token ban đầu của dự án.
+
+**2. Nghi vấn về Phân bổ Thực tế**
+
+Một cuộc điều tra của tạp chí Forbes, được nhiều hãng tin tức khác đăng tải lại, đã đặt ra nghi vấn về tính chính xác của quá trình phân bổ token trong đợt ICO của Binance [6](https://forklog.com/en/binances-story-as-told-by-forbes-from-ico-to-a-multi-billion-dollar-business/), [7](https://finance.yahoo.com/news/binance-ico-raised-less-us-090836652.html). Cuộc điều tra này cho rằng các con số thực tế có sự khác biệt lớn so với những gì được công bố trong sách trắng:
+
+*   **ICO Thực tế:** Báo cáo của Forbes tuyên bố rằng thay vì bán ra 100 triệu BNB như kế hoạch, Binance thực chất chỉ bán được 10,78 triệu BNB trong đợt ICO [6](https://forklog.com/en/binances-story-as-told-by-forbes-from-ico-to-a-multi-billion-dollar-business/), [7](https://finance.yahoo.com/news/binance-ico-raised-less-us-090836652.html).
+*   **Phân bổ Thêm cho Nhà đầu tư Thiên thần:** Điều đáng chú ý là cuộc điều tra này cáo buộc rằng có thêm 20 triệu BNB đã được chuyển vào các ví của nhà đầu tư thiên thần sau đợt ICO. Điều này có nghĩa là tổng số token mà nhóm này nhận được không phải là 20 triệu mà có thể lên tới 40 triệu BNB, gấp đôi so với con số công bố ban đầu [6](https://forklog.com/en/binances-story-as-told-by-forbes-from-ico-to-a-multi-billion-dollar-business/), [7](https://finance.yahoo.com/news/binance-ico-raised-less-us-090836652.html).
+
+### Kết luận về Vesting của Nhà đầu tư Thiên thần
+
+Mặc dù có thông tin về số lượng token BNB được phân bổ cho các nhà đầu tư thiên thần, nhưng các điều khoản đi kèm với số token này, đặc biệt là lịch trình khóa và mở khóa (vesting), vẫn là một ẩn số. Các tài liệu công khai và các bài phân tích về ICO của Binance không cung cấp chi tiết về vấn đề này. Sự thiếu minh bạch này khiến cho việc xác định các chi tiết sau trở nên bất khả thi:
+
+*   Các nhà đầu tư thiên thần có phải tuân theo một giai đoạn khóa token hay không?
+*   Nếu có, thời gian khóa là bao lâu và lịch trình trả token diễn ra như thế nào (ví dụ: trả dần hàng tháng, hàng quý)?
+*   Lịch trình này có giống với lịch trình áp dụng cho đội ngũ sáng lập Binance hay không?
+
+Tóm lại, trong khi chúng ta biết về tỷ lệ phân bổ ban đầu (10%) và những tranh cãi xung quanh con số thực tế, các điều khoản cụ thể về việc mở khóa token cho nhóm nhà đầu tư thiên thần của BNB không được công khai hóa.
+
+## Phân phối Token qua Initial Coin Offering (ICO)
+
+Việc phân phối token BNB (Binance) thông qua đợt Chào bán Coin Lần đầu (ICO) vào tháng 7 năm 2017 có các cơ chế khóa (lock-up) và trả dần (vesting) khác nhau tùy thuộc vào từng nhóm người nhận. Cụ thể, các token bán cho công chúng và nhà đầu tư thiên thần trong đợt ICO có vẻ không bị khóa, trong khi phần token dành cho đội ngũ sáng lập lại tuân theo một lịch trình trả dần cụ thể.
+
+### Người tham gia ICO Công khai
+
+Trong đợt ICO, Binance đã phân bổ tổng cộng 100 triệu token BNB, tương đương 50% tổng cung, cho đợt chào bán công khai [1]. Theo một phân tích về tokenomics của BNB, các token được phân phối cho những người tham gia ICO công khai đã được mở khóa hoàn toàn và không chịu sự ràng buộc của bất kỳ cơ chế khóa hay trả dần nào [8]. Điều này có nghĩa là những người mua BNB trong đợt ICO công khai đã nhận được token có thể giao dịch tự do ngay sau khi sự kiện kết thúc.
+
+### Nhà đầu tư Thiên thần
+
+Theo sách trắng ban đầu của Binance, 10% tổng cung (tương đương 20 triệu BNB) đã được phân bổ cho các nhà đầu tư thiên thần [1], [5]. Một số phân tích tokenomics cũng cho rằng số token này được phân phối mà không có bất kỳ hạn chế nào về trả dần (vesting) hay khóa token (lock-up) [8]. Tuy nhiên, cần lưu ý rằng các tài liệu công khai từ Binance không cung cấp chi tiết rõ ràng về lịch trình vesting cụ thể cho nhóm này. Như đã đề cập trong mục "Điều khoản Vesting cho các Nhà đầu tư Thiên thần", một nguồn phân tích tokenomics khác đã khẳng định rằng "Chi tiết về việc khóa token không được nêu rõ hoàn toàn" cho nhóm này [4]. Do đó, mặc dù có những dấu hiệu cho thấy không có vesting, việc xác nhận chính thức từ Binance về điều này vẫn chưa được công bố rộng rãi.
+
+### So sánh với Đội ngũ Sáng lập
+
+Trái ngược hoàn toàn với người tham gia ICO công khai và (có thể) nhà đầu tư thiên thần, 40% tổng cung token BNB được phân bổ cho đội ngũ sáng lập đã phải tuân theo một lịch trình trả dần (vesting) nghiêm ngặt kéo dài nhiều năm. Cơ chế này được thiết kế để đảm bảo sự cam kết lâu dài của đội ngũ sáng lập đối với sự phát triển của dự án và ngăn chặn việc bán tháo một lượng lớn token ra thị trường ngay từ đầu. Chi tiết về lịch trình vesting của đội ngũ sáng lập đã được trình bày chi tiết trong mục "Cấu trúc và Lịch trình Vesting Chi tiết cho Đội ngũ Sáng lập" của báo cáo này [1], [2].
+
+## Phân tích và Đánh giá Mô hình Vesting của BNB
+
+Mô hình phân bổ và trả token (vesting) của BNB được thiết kế với các chiến lược khác nhau cho từng nhóm đối tượng cụ thể: đội ngũ sáng lập, nhà đầu tư thiên thần và những người tham gia chào bán công khai (ICO). Cấu trúc này được xây dựng nhằm phục vụ các mục tiêu chiến lược dài hạn, đảm bảo sự ổn định của dự án và tạo động lực cho các bên liên quan.
+
+### 1. Phân tích Mô hình Vesting
+
+#### 1.1. Đối với Đội ngũ Sáng lập (Founding Team)
+
+Phần token được phân bổ cho đội ngũ sáng lập (40% tổng cung, tương đương 80 triệu BNB) tuân thủ một lịch trình trả token (vesting schedule) nghiêm ngặt kéo dài trong 5 năm , . Cụ thể, mỗi năm, 20% trong tổng số 80 triệu BNB của đội ngũ sẽ được mở khóa dần theo cơ chế tuyến tính hàng năm, bắt đầu từ tháng 7 năm 2017 và hoàn tất vào tháng 7 năm 2022 , .
+
+**Mô hình này có phải là "linear" không?**
+
+Mô hình này có bản chất là "linear" theo nghĩa phân phối dần dần theo thời gian thay vì mở khóa toàn bộ một lúc. Tuy nhiên, nó không hoàn toàn "linear" theo định nghĩa chặt chẽ nhất (tức là trả một lượng nhỏ token liên tục mỗi ngày hoặc mỗi tháng). Thay vào đó, đây là một dạng **"graded vesting"** hoặc **"periodic linear vesting"** theo từng đợt lớn hàng năm. Mặc dù có một lượng đáng kể được mở khóa định kỳ, mục đích của nó vẫn là phân phối dần dần token để kéo dài cam kết của đội ngũ .
+
+Một chi tiết đáng chú ý là các token của đội ngũ sau khi được trả (vested) sẽ được đưa vào cơ chế đốt hàng quý của Binance. Điều này có nghĩa là số token này sẽ không có tính thanh khoản cho đến khi được đốt hoàn toàn, góp phần vào chiến lược giảm phát tổng thể của BNB .
+
+#### 1.2. Đối với các Nhà đầu tư Thiên thần (Angel Investors)
+
+Theo sách trắng ban đầu của Binance, 10% tổng cung (tương đương 20 triệu BNB) đã được phân bổ cho các nhà đầu tư thiên thần , . Tuy nhiên, như đã đề cập trong các phần trước, không có thông tin công khai chi tiết nào về lịch trình trả token (vesting schedule) hoặc các điều khoản khóa (lock-up) dành riêng cho nhóm này. Một số phân tích tokenomics cho rằng số token này được phân phối mà không có bất kỳ hạn chế nào về trả dần hay khóa token , trong khi các nguồn khác lại khẳng định chi tiết về việc khóa token cho nhóm này "không được nêu rõ hoàn toàn" . Do đó, việc xác nhận chính thức từ Binance về điều này vẫn chưa được công bố rộng rãi.
+
+#### 1.3. Đối với Người tham gia ICO Công khai
+
+Những người tham gia ICO công khai đã mua 50% tổng cung (100 triệu BNB) . Các token được phân phối cho nhóm này đã được mở khóa hoàn toàn và không chịu sự ràng buộc của bất kỳ cơ chế khóa hay trả dần nào . Điều này cho phép những người mua BNB trong đợt ICO công khai có thể giao dịch tự do ngay sau khi sự kiện kết thúc.
+
+### 2. Mục đích đằng sau cấu trúc trả token
+
+Việc thiết kế một lịch trình vesting nghiêm ngặt cho đội ngũ nhưng lại cho phép các nhà đầu tư sớm (và công chúng) có thanh khoản ngay lập tức là một quyết định chiến lược có chủ đích, nhằm đạt được các mục tiêu sau:
+
+*   **Khuyến khích sự cam kết và gắn bó lâu dài của đội ngũ:** Đây là mục đích chính của lịch trình vesting. Bằng cách khóa phần lớn token của đội ngũ trong 5 năm, Binance đảm bảo rằng những người chủ chốt của dự án có động lực mạnh mẽ để ở lại và làm việc hướng tới sự thành công lâu dài của nền tảng . Lợi ích tài chính của họ gắn liền trực tiếp với sự tăng trưởng và giá trị của BNB trong tương lai .
+*   **Giảm thiểu áp lực bán và ổn định giá token sau ICO:** Nếu toàn bộ 80 triệu BNB của đội ngũ được tung ra thị trường ngay lập tức, nó sẽ tạo ra một áp lực bán khổng lồ, có khả năng làm sụp đổ giá trị của token. Việc phân phối dần dần số token này trong 5 năm giúp thị trường có thời gian để hấp thụ nguồn cung mới một cách từ từ, duy trì sự ổn định về giá và tránh tình trạng bán tháo .
+*   **Xây dựng niềm tin cho cộng đồng:** Việc đội ngũ sáng lập tự nguyện khóa token của chính mình là một tín hiệu mạnh mẽ cho thấy họ tin tưởng vào tiềm năng dài hạn của dự án. Điều này giúp xây dựng niềm tin với cộng đồng và các nhà đầu tư công chúng, chứng tỏ rằng đội ngũ không chỉ tìm kiếm lợi nhuận ngắn hạn mà thực sự cam kết xây dựng một sản phẩm bền vững.
+
+### 3. Bối cảnh rộng hơn: Tokenomics và Cơ chế đốt BNB
+
+Cấu trúc vesting của BNB không hoạt động một cách độc lập mà là một phần không thể thiếu trong mô hình kinh tế token (tokenomics) giảm phát của nó .
+
+*   **Giới hạn nguồn cung:** Tổng cung BNB được cố định ở mức 200 triệu và không bao giờ tăng thêm .
+*   **Cơ chế đốt token dựa trên lợi nhuận:** Binance cam kết sử dụng 20% lợi nhuận hàng quý từ sàn giao dịch để mua lại và đốt BNB cho đến khi 50% tổng cung (100 triệu BNB) bị tiêu hủy , . Các token của đội ngũ sau khi được mở khóa cũng tham gia vào chương trình đốt này .
+*   **Đốt phí giao dịch (BEP-95):** Ngoài ra, một phần phí giao dịch trên BNB Chain cũng được đốt vĩnh viễn trong thời gian thực. Cơ chế này, được gọi là Binance Evolution Proposal 95 (BEP-95), giúp giảm nguồn cung một cách liên tục dựa trên hoạt động của mạng lưới .
+
+Lịch trình vesting của đội ngũ, kết hợp với các cơ chế đốt token mạnh mẽ này, tạo ra một hệ sinh thái kinh tế được thiết kế để tăng cường sự khan hiếm và thúc đẩy giá trị của BNB theo thời gian.
+
+### Kết luận
+
+Mô hình trả token của BNB cho đội ngũ sáng lập là một dạng thiết kế trả dần theo từng đợt lớn (periodic linear/graded vesting), kéo dài 5 năm, nhằm phân phối dần dần token theo thời gian. Ngược lại, những người tham gia ICO công khai và (theo một số phân tích) các nhà đầu tư thiên thần không bị áp dụng cơ chế khóa token.
+
+Mục đích chính đằng sau cấu trúc này là một chiến lược đa tầng, bao gồm:
+
+1.  Đảm bảo sự cam kết dài hạn từ đội ngũ nòng cốt.
+2.  Bảo vệ sự ổn định giá của token bằng cách ngăn chặn áp lực bán lớn sau ICO.
+3.  Xây dựng niềm tin với cộng đồng và các nhà đầu tư.
+4.  Tích hợp chặt chẽ với chiến lược giảm phát tổng thể thông qua cơ chế đốt token, nhằm tăng cường sự khan hiếm và giá trị dài hạn cho BNB.
+
+## References:
+
+[1] https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf  
+[2] https://messari.io/asset/binance-coin/profile  
+[3] https://www.binance.com/en/blog/from-cz/a-letter-from-the-ceo-our-commitment-to-the-binance-community-313593925712740352  
+[4] https://www.mexc.com/price/BNB/tokenomics  
+[5] https://www.binance.com/en/square/post/21491011345634  
+[6] https://forklog.com/en/binances-story-as-told-by-forbes-from-ico-to-a-multi-billion-dollar-business/  
+[7] https://finance.yahoo.com/news/binance-ico-raised-less-us-090836652.html  
+[8] https://altfins.com/blog/curated-chart/binance-bnb-analysis/

@@ -1,0 +1,5 @@
+query: Tỷ lệ mở khóa ở TGE cho early participants của bnb có <5% tổng cung không?
+slug: tỷ-lệ-mở-khóa-ở-tge-cho-early-participants-của-bnb-có-5-tổng
+time: 20250915-133411
+len_chars: 16058
+status: success

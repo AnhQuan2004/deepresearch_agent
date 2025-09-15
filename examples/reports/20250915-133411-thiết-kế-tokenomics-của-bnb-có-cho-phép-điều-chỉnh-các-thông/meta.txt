@@ -1,0 +1,5 @@
+query: Thiết kế tokenomics của bnb có cho phép điều chỉnh các thông số (ví dụ: tỷ lệ phần thưởng, phí) để thích ứng với điều kiện thị trường thay đổi trong tương lai không?
+slug: thiết-kế-tokenomics-của-bnb-có-cho-phép-điều-chỉnh-các-thông
+time: 20250915-133411
+len_chars: 30591
+status: success

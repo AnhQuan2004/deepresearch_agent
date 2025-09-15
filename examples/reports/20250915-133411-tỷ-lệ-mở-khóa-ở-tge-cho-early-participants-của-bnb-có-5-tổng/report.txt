@@ -1,0 +1,170 @@
+# Phân tích Tỷ lệ Mở khóa Token BNB tại TGE cho các Bên Tham gia Ban đầu
+
+## Table of Contents
+
+1. Tỷ lệ Mở khóa tại TGE cho Người tham gia ICO (Public Sale)
+2. Tỷ lệ Mở khóa tại TGE cho các Nhà đầu tư Thiên thần (Angel Investors)
+3. Tỷ lệ Mở khóa tại TGE cho Đội ngũ Sáng lập (Founding Team)
+4. Tổng hợp và Kết luận: Tỷ lệ Mở khóa Tổng thể tại TGE
+
+## Tỷ lệ Mở khóa tại TGE cho Người tham gia ICO (Public Sale)
+
+Dựa trên các thông tin nghiên cứu, **100%** số token BNB được phân bổ cho những người tham gia đợt Initial Coin Offering (ICO) công khai đã được mở khóa hoàn toàn ngay tại Sự kiện Tạo Token (TGE). Cụ thể, không có bất kỳ lịch trình khóa token (lock-up) hay vesting nào được áp dụng cho các nhà đầu tư tham gia đợt bán công khai này [1](https://icodrops.com/binancecoin/).
+
+### Chi tiết Lịch trình Mở khóa Token
+
+Thông tin quan trọng nhất chỉ ra rằng việc phân phối token cho những người tham gia ICO công khai không có điều khoản khóa token. Một nguồn uy tín chuyên theo dõi các dự án ICO đã ghi rõ trong phần phân phối token của Binance là "Distribution: No Lock Up" (Phân phối: Không khóa) [1](https://icodrops.com/binancecoin/).
+
+Điều này có nghĩa là các nhà đầu tư đã mua BNB trong đợt ICO công khai có toàn quyền truy cập, sử dụng và giao dịch toàn bộ số token của họ ngay sau khi quá trình phân phối token được hoàn tất sau Sự kiện Tạo Token (TGE). TGE của Binance đã kết thúc thành công vào ngày 25 tháng 7 năm 2017 [1](https://icodrops.com/binancecoin/).
+
+### Bối cảnh về Đợt ICO và Phân bổ Token BNB (Năm 2017)
+
+Để cung cấp bối cảnh đầy đủ, dưới đây là các thông tin chi tiết về đợt ICO của Binance vào năm 2017:
+
+*   **Thời gian diễn ra ICO:** Kế hoạch ICO và sách trắng của Binance được công bố vào ngày 22 tháng 6 năm 2017 [2](https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf). Đợt ICO chính thức diễn ra từ ngày 26 tháng 6 đến ngày 3 tháng 7 năm 2017, mặc dù một số nguồn tin ghi nhận ngày bắt đầu chính thức là 1 tháng 7 năm 2017 [2](https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf), [3](https://coincodex.com/ico/binance-coin/).
+*   **Tổng cung ban đầu:** 200 triệu token BNB đã được tạo ra [3](https://coincodex.com/ico/binance-coin/).
+*   **Phân bổ token:**
+    *   **50% (100 triệu BNB):** Dành cho đợt bán ICO công khai [3](https://coincodex.com/ico/binance-coin/).
+    *   **40% (80 triệu BNB):** Dành cho đội ngũ sáng lập Binance [3](https://coincodex.com/ico/binance-coin/).
+    *   **10% (20 triệu BNB):** Dành cho các nhà đầu tư thiên thần (Angel Investors) [3](https://coincodex.com/ico/binance-coin/).
+*   **Giá ICO:** Giá bán trong đợt ICO công khai là 0,15 USD cho mỗi token BNB [3](https://coincodex.com/ico/binance-coin/).
+*   **Kết quả huy động vốn:** Đợt ICO đã huy động được tổng cộng 15 triệu USD [3](https://coincodex.com/ico/binance-coin/), [4](https://forkast.news/binance-ico-raised-less-us5-mln-forbes/).
+
+### Thông tin Bổ sung và Lưu ý
+
+*   **Sách trắng gốc (Whitepaper):** Việc truy cập trực tiếp vào bản sách trắng gốc đầy đủ của Binance từ năm 2017 gặp nhiều khó khăn, do các liên kết thường không còn hoạt động hoặc bị giới hạn [2](https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf), [6](https://www.scribd.com/document/698544848/Binance). Tuy nhiên, các bản tóm tắt và tài liệu lưu trữ đã xác nhận các chi tiết chính về cấu trúc ICO và phân bổ token [2](https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf).
+*   **Điều tra của Forbes:** Cần lưu ý rằng một cuộc điều tra sau này của Forbes đã đặt ra nghi vấn rằng số lượng token BNB thực tế được chuyển cho các nhà đầu tư ICO có thể ít hơn so với con số 100 triệu mà Binance đã công bố ban đầu [4](https://forkast.news/binance-ico-raised-less-us5-mln-forbes/), [5](https://www.forbes.com/sites/digital-assets/2023/10/05/how-binance-turned-its-failed-token-ico-into-a-billion-dollar-windfall/). Tuy nhiên, điều này không làm thay đổi kế hoạch ban đầu về việc **không áp dụng lịch trình khóa token** cho những người tham gia ICO công khai.
+
+### Kết luận
+
+Đối với những người tham gia đợt ICO công khai của Binance vào năm 2017, tỷ lệ token BNB được mở khóa tại Sự kiện Tạo Token (TGE) là **100%**. Họ không phải chịu bất kỳ thời gian khóa token nào và có thể toàn quyền sử dụng số token đã mua ngay sau khi được phân phối.
+
+## Tỷ lệ Mở khóa tại TGE cho các Nhà đầu tư Thiên thần (Angel Investors)
+
+Dựa trên các phân tích có sẵn, các nhà đầu tư thiên thần của Binance (BNB) **không bị khóa token** tại Sự kiện Tạo Token (TGE) vào tháng 7 năm 2017. Toàn bộ số token phân bổ cho họ đã được **mở khóa ngay lập tức (vested immediately)**, cho phép họ truy cập và toàn quyền sử dụng ngay sau khi phát hành. Tuy nhiên, cần lưu ý có sự khác biệt đáng kể giữa các báo cáo về số lượng token thực tế mà các nhà đầu tư thiên thần nhận được.
+
+Dưới đây là phân tích chi tiết về lịch trình vesting và bối cảnh phân bổ token cho các nhà đầu tư thiên thần của Binance.
+
+### Lịch trình Mở khóa của Nhà đầu tư Thiên thần: Không có Giai đoạn Khóa
+
+Theo một phân tích chi tiết về việc phân bổ token BNB, các nhà đầu tư thiên thần được phân bổ 10% tổng nguồn cung ban đầu, tương đương 20 triệu BNB. Điều quan trọng nhất là toàn bộ số token này đã được **mở khóa ngay lập tức** tại TGE [7]. Điều này có nghĩa là không có lịch trình vesting hay thời gian khóa (lock-up period) nào được áp dụng cho các nhà đầu tư thiên thần. Họ có quyền truy cập và giao dịch số BNB của mình ngay từ đầu [7].
+
+Sự đối xử này hoàn toàn trái ngược với đội ngũ sáng lập của Binance. Đội ngũ sáng lập được phân bổ 40% tổng nguồn cung (80 triệu BNB), nhưng số token này phải tuân theo một lịch trình vesting kéo dài 4 năm. Theo đó, một nửa số token của họ được mở khóa ngay tại TGE, và phần còn lại được giải ngân dần cho đến năm 2021 [7, 8]. Việc áp dụng lịch trình vesting cho đội ngũ sáng lập nhưng không áp dụng cho các nhà đầu tư thiên thần cho thấy một chiến lược phân bổ có chủ đích, nhằm tạo điều kiện thuận lợi cho các nhà đầu tư ban đầu.
+
+### Sự khác biệt trong Phân bổ Token cho Nhà đầu tư Thiên thần
+
+Mặc dù lịch trình mở khóa đã rõ ràng, nhưng số lượng token mà các nhà đầu tư thiên thần thực sự nhận được lại là một vấn đề gây tranh cãi và có sự khác biệt lớn giữa các nguồn tin.
+
+#### Kế hoạch ban đầu trong Sách trắng
+Sách trắng gốc của Binance, phát hành vào khoảng tháng 7 năm 2017, nêu rõ kế hoạch phân bổ 200 triệu token BNB như sau [2, 3]:
+*   **Đội ngũ sáng lập:** 80 triệu BNB (40%)
+*   **Nhà đầu tư Thiên thần:** 20 triệu BNB (10%)
+*   **Nhà đầu tư ICO:** 100 triệu BNB (50%)
+
+#### Thực tế theo các Báo cáo Điều tra
+Các báo cáo điều tra gần đây, đặc biệt là từ Forbes và được CryptoSlate trích dẫn, đã chỉ ra một sự khác biệt lớn so với kế hoạch ban đầu. Theo các báo cáo này, số token thực tế được phân bổ cho các nhóm đã thay đổi đáng kể [5, 9]:
+*   **Nhà đầu tư ICO** chỉ nhận được 10.78 triệu BNB, một phần rất nhỏ so với con số 100 triệu đã hứa [5, 9].
+*   **Nhà đầu tư Thiên thần** được cho là đã nhận được gấp đôi số token so với kế hoạch, với tổng cộng **40 triệu BNB** được chuyển vào ví của họ [5, 9, 11].
+
+Sự thay đổi này có ý nghĩa quan trọng, cho thấy các nhà đầu tư thiên thần không chỉ được hưởng lợi từ việc không bị khóa token mà còn nhận được một lượng token lớn hơn đáng kể so với công bố ban đầu.
+
+### Bối cảnh và Tác động
+
+Việc phân bổ lại token này, đặc biệt là việc tăng gấp đôi lượng token cho các nhà đầu tư thiên thần và giảm mạnh lượng token cho nhà đầu tư ICO, đã làm dấy lên nhiều câu hỏi. Báo cáo của Forbes cho rằng Binance và các giám đốc điều hành có thể đã kiểm soát thêm 65 triệu token không bán được, bên cạnh 80 triệu BNB đã được phân bổ cho họ [5]. Một phân tích blockchain được trích dẫn trong báo cáo chỉ ra rằng các ví bị nghi ngờ thuộc về Binance nắm giữ 63.1 triệu BNB. Điều này có nghĩa là Binance có thể kiểm soát tổng cộng 116.9 triệu token, chiếm một phần lớn trong tổng nguồn cung lưu hành [5].
+
+Tại thời điểm báo cáo, BNB có vốn hóa thị trường là 33 tỷ USD, là loại tiền điện tử lớn thứ tư. Binance đã không đưa ra bình luận về những phát hiện này [5].
+
+### Kết luận
+
+Để trả lời trực tiếp cho câu hỏi về tỷ lệ mở khóa tại TGE cho các Nhà đầu tư Thiên thần:
+
+1.  **Các nhà đầu tư thiên thần của Binance (BNB) có bị khóa token tại TGE không?**
+    *   Không. Toàn bộ số token phân bổ cho các nhà đầu tư thiên thần đã được **mở khóa ngay lập tức** tại TGE, có nghĩa là không có bất kỳ thời gian khóa nào [7].
+
+2.  **Nếu có thì lịch trình vesting là gì?**
+    *   Vì token được mở khóa ngay lập tức, nên **không có lịch trình vesting** nào được áp dụng cho nhóm nhà đầu tư này. Họ có toàn quyền sử dụng token của mình ngay sau sự kiện tạo token [7].
+
+Tuy nhiên, điều quan trọng cần lưu ý là có sự mâu thuẫn trong các tài liệu về số lượng token thực tế mà họ nhận được, với các báo cáo điều tra cho thấy con số này là 40 triệu BNB, gấp đôi so với kế hoạch 20 triệu BNB trong sách trắng ban đầu [5, 9, 11].
+
+## Tỷ lệ Mở khóa tại TGE cho Đội ngũ Sáng lập (Founding Team)
+
+Đối với đội ngũ sáng lập của Binance, câu trả lời cho việc liệu token BNB của họ có bị khóa tại Sự kiện Tạo Token (TGE) vào tháng 7 năm 2017 hay không là **Có**. Phần lớn số token được phân bổ cho đội ngũ sáng lập đã tuân theo một kế hoạch khóa và phân phối theo thời gian (vesting) cụ thể được nêu rõ trong sách trắng (whitepaper) ban đầu của dự án vào năm 2017.
+
+### Phân bổ Token BNB cho Đội ngũ Sáng lập
+
+Tại TGE, tổng cộng 200 triệu token BNB đã được tạo ra. Trong số này, **40% tổng cung, tương đương 80 triệu BNB**, đã được phân bổ cho đội ngũ sáng lập Binance, bao gồm cả CEO Changpeng Zhao (CZ) [7, 10]. Việc phân bổ này là một phần quan trọng trong cấu trúc tokenomics của dự án, nhằm đảm bảo đội ngũ có động lực để phát triển nền tảng Binance về lâu dài .
+
+### Kế hoạch Khóa và Lịch trình Vesting
+
+Sách trắng gốc của Binance đã mô tả một "Kế hoạch Vesting BNB cho Đội ngũ" (BNB Vesting Plan for the Team) rất cụ thể, xác định rằng không phải tất cả 80 triệu BNB đều có sẵn cho đội ngũ ngay lập tức .
+
+Cơ chế vesting được thực hiện như sau:
+
+*   **Mở khóa tại TGE:** 20% trong tổng số token của đội ngũ, tương đương **16 triệu BNB** (20% của 80 triệu), đã được giải ngân ngay từ đầu. Lượng token này có thể được sử dụng bởi đội ngũ ngay sau TGE [7, 10].
+*   **Token Bị Khóa:** 80% còn lại, tương đương **64 triệu BNB**, đã bị khóa và được phân phối dần theo một lịch trình kéo dài [7, 10]. Lịch trình vesting chi tiết quy định số token bị khóa này sẽ được mở khóa dần theo từng năm, với một phần được giải ngân sau năm đầu tiên và phần còn lại tiếp tục được phân phối trong các năm tiếp theo .
+
+Việc thiết kế lịch trình vesting kéo dài nhiều năm là một thông lệ phổ biến trong ngành tiền điện tử, nhằm mục đích:
+
+*   **Đồng bộ hóa lợi ích:** Đảm bảo rằng lợi ích tài chính của đội ngũ sáng lập gắn liền với sự thành công và phát triển bền vững của dự án trong dài hạn.
+*   **Ngăn chặn áp lực bán:** Tránh tình trạng đội ngũ bán tháo một lượng lớn token ra thị trường ngay sau khi ra mắt, điều có thể gây ảnh hưởng tiêu cực đến giá và niềm tin của nhà đầu tư.
+
+### Bối cảnh và Thông tin Bổ sung
+
+*   **Thời điểm ICO:** Đợt Initial Coin Offering (ICO) của Binance diễn ra vào tháng 7 năm 2017, sau khi dự án chính thức khởi động vào tháng 6 năm 2017. Đợt ICO này đã huy động được 15 triệu USD với giá bán mỗi BNB là 0,15 USD [3, 5].
+*   **Cơ chế Đốt Token:** Một phần quan trọng khác trong tokenomics của BNB là cơ chế đốt token (token burn). Binance cam kết sử dụng một phần lợi nhuận hàng quý để mua lại và đốt BNB cho đến khi tổng cung giảm từ 200 triệu xuống còn 100 triệu . Cơ chế này, kết hợp với lịch trình vesting, được thiết kế để tạo ra sự khan hiếm và tăng giá trị cho token theo thời gian.
+*   **Sự Thiếu Thông tin Chi tiết trong Tin tức Phổ biến:** Đáng chú ý là trong khi sách trắng cung cấp thông tin rõ ràng về vesting, nhiều bài báo và phân tích sau này, đặc biệt là những bài viết liên quan đến cuộc điều tra của Ủy ban Giao dịch và Chứng khoán Hoa Kỳ (SEC) về đợt ICO năm 2017 của Binance, thường không đi sâu vào chi tiết về lịch trình vesting của đội ngũ [8, 9]. Các cuộc điều tra này chủ yếu tập trung vào việc liệu BNB có nên được đăng ký là một chứng khoán hay không, thay vì các chi tiết về phân phối nội bộ . Điều này giải thích tại sao thông tin cụ thể về việc khóa token có thể khó tìm thấy trong các nguồn tin tức phổ thông.
+
+## Tổng hợp và Kết luận: Tỷ lệ Mở khóa Tổng thể tại TGE
+
+Dựa trên các kết quả nghiên cứu chi tiết về từng nhóm tham gia ban đầu của Binance, câu trả lời cho truy vấn về tỷ lệ mở khóa token BNB tại Sự kiện Tạo Token (TGE) được tổng hợp như sau:
+
+**Trả lời:** **Không**, tổng tỷ lệ token BNB được mở khóa tại TGE cho tất cả các bên tham gia ban đầu (ICO, nhà đầu tư thiên thần, đội ngũ sáng lập) **không nhỏ hơn 5% tổng cung**. Trên thực tế, con số này lớn hơn đáng kể, ước tính vào khoảng **68% tổng cung** ban đầu.
+
+Dưới đây là phân tích chi tiết về lượng token được mở khóa tại TGE cho từng nhóm tham gia ban đầu:
+
+### 1. Người tham gia ICO (Public Sale)
+
+*   **Phân bổ:** 100 triệu BNB, tương đương **50%** tổng nguồn cung ban đầu (200 triệu BNB) [3].
+*   **Lịch trình khóa token (Lock-up):** Không có lịch trình khóa token. Toàn bộ 100% số token dành cho những người tham gia ICO công khai đã được mở khóa hoàn toàn ngay tại hoặc ngay sau TGE, hoàn tất phân phối vào khoảng ngày 25 tháng 7 năm 2017 [1].
+*   **Tỷ lệ trên tổng cung được mở khóa tại TGE:** 50% tổng cung (100 triệu BNB).
+
+### 2. Đội ngũ sáng lập (Founding Team)
+
+*   **Phân bổ:** 80 triệu BNB, tương đương **40%** tổng nguồn cung ban đầu [3, 7, 10].
+*   **Lịch trình khóa token (Vesting Schedule):** Các token này tuân theo một lịch trình vesting kéo dài 5 năm. Theo đó, **20%** số token của đội ngũ sáng lập đã được mở khóa ngay tại TGE, tương đương 16 triệu BNB [7, 10]. Phần còn lại bị khóa và được phân phối dần theo thời gian.
+*   **Tỷ lệ trên tổng cung được mở khóa tại TGE:** 16 triệu BNB / 200 triệu BNB = **8%** tổng cung.
+
+### 3. Nhà đầu tư thiên thần (Angel Investors)
+
+*   **Phân bổ:** 20 triệu BNB, tương đương **10%** tổng nguồn cung ban đầu [3].
+*   **Lịch trình khóa token (Vesting Schedule):** Toàn bộ số token phân bổ cho các nhà đầu tư thiên thần đã được **mở khóa ngay lập tức** tại TGE vào tháng 7 năm 2017. Không có lịch trình khóa token hay vesting nào được áp dụng cho nhóm này [12].
+*   **Tỷ lệ trên tổng cung được mở khóa tại TGE:** 20 triệu BNB / 200 triệu BNB = **10%** tổng cung.
+
+### Tổng hợp Tỷ lệ Mở khóa Tổng thể tại TGE
+
+Tổng hợp tỷ lệ token BNB được mở khóa tại TGE từ tất cả các bên tham gia ban đầu:
+
+*   **Từ người tham gia ICO:** 50%
+*   **Từ đội ngũ sáng lập:** 8%
+*   **Từ nhà đầu tư thiên thần:** 10%
+*   **Tổng cộng:** 50% + 8% + 10% = **68%**
+
+Như vậy, tổng cộng có khoảng **68%** tổng cung token BNB đã được mở khóa tại hoặc ngay sau Sự kiện Tạo Token (TGE). Con số này cao hơn đáng kể so với mức 5% được đề cập trong câu hỏi.
+
+## References:
+
+[1] https://icodrops.com/binancecoin/  
+[2] https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf  
+[3] https://coincodex.com/ico/binance-coin/  
+[4] https://forkast.news/binance-ico-raised-less-us5-mln-forbes/  
+[5] https://www.forbes.com/sites/digital-assets/2023/10/05/how-binance-turned-its-failed-token-ico-into-a-billion-dollar-windfall/  
+[6] https://www.scribd.com/document/698544848/Binance  
+[7] https://tokentuesdays.substack.com/p/binance-coin-bnb  
+[8] https://hackernoon.com/while-unregistered-binance-packaged-and-sold-bnb-as-a-security  
+[9] https://cryptoslate.com/report-finds-that-binance-only-distributed-10-of-promised-bnb-tokens-during-ico/  
+[10] https://www.swanbitcoin.com/industry/binance-raising-eyebrows-since-2017/  
+[11] https://finance.yahoo.com/news/binance-ico-raised-less-us-090836652.html  
+[12] https://messari.io/project/binance/token-unlocks  
+[13] https://www.mexc.co/en-IN/price/BNB/tokenomics  
+[14] https://www.findas.org/tokenomics-review/coins/the-tokenomics-of-bnb/r/8CycJKQV7ZpCczSgJj6o4k  
+[15] https://www.scribd.com/document/886196185/Here-s-the-complete-breakdown-of-Binance-s-BNB-tokenomics-with-precise-allo-20250605-022223-0000

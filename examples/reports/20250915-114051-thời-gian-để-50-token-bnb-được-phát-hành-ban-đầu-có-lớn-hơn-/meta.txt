@@ -1,0 +1,5 @@
+query: Thời gian để 50% token bnb được phát hành ban đầu có lớn hơn 2 năm không?
+slug: thời-gian-để-50-token-bnb-được-phát-hành-ban-đầu-có-lớn-hơn-
+time: 20250915-114051
+len_chars: 10592
+status: success

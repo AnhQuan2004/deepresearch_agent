@@ -1,0 +1,3 @@
+query: Giải pháp của dự án bnb có mang lại một lợi ích vượt trội ít nhất 5-10 lần (về tốc độ, chi phí, hoặc sự tiện lợi) so với giải pháp hiện có không?
+slug: giải-pháp-của-dự-án-bnb-có-mang-lại-một-lợi-ích-vượt-trội-ít
+time: 20250915-141025

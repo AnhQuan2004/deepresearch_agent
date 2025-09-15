@@ -1,0 +1,7 @@
+query: Tốc độ tăng trưởng kép hàng năm (CAGR) của lĩnh vực dự án bnb hoạt động có được dự báo > 20% không?CAGR chung của blockchain, dApp, Smart Contract (Grandview)
+slug: tốc-độ-tăng-trưởng-kép-hàng-năm-cagr-của-lĩnh-vực-dự-án-bnb-
+time: 20250915-170401
+started: 2025-09-15T17:04:01.724318
+len_chars: 15346
+status: success
+completed: 2025-09-15T17:13:10.350069

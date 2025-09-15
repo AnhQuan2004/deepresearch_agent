@@ -1,0 +1,3 @@
+query: Lịch trình trả token (vesting) cho đội ngũ và nhà đầu tư của bnb có được thiết kế để trả dần theo từng đợt nhỏ, thay vì mở khóa một lượng lớn tại một thời điểm không? (Linear)
+slug: lịch-trình-trả-token-vesting-cho-đội-ngũ-và-nhà-đầu-tư-của-b
+time: 20250915-141025

@@ -1,0 +1,4 @@
+query: Tốc độ tăng trưởng kép hàng năm (CAGR) của lĩnh vực dự án bnb hoạt động có được dự báo > 20% không?
+slug: tốc-độ-tăng-trưởng-kép-hàng-năm-cagr-của-lĩnh-vực-dự-án-bnb-
+time: 20250915-161539
+started: 2025-09-15T16:15:39.074614

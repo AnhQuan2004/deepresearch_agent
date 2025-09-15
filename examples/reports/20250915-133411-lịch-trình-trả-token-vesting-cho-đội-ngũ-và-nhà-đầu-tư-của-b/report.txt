@@ -1,0 +1,245 @@
+# Phân Tích Lịch Trình Trả Token (Vesting) của BNB
+
+## Table of Contents
+
+1. Lịch Trình Trả Token (Vesting) cho Đội Ngũ Sáng Lập BNB
+2. Phân Bổ Token cho Các Nhà Đầu Tư Thiên Thần
+3. Phân Phối Token qua Đợt Chào Bán Công Khai (ICO)
+4. Cơ Chế Đốt Token và Tác Động Đến Nguồn Cung
+
+## Lịch Trình Trả Token (Vesting) cho Đội Ngũ Sáng Lập BNB
+
+Báo cáo này cung cấp cái nhìn toàn diện về lịch trình trả token (vesting) cho đội ngũ sáng lập của Binance (BNB), dựa trên Sách trắng (Whitepaper) gốc năm 2017 và các cập nhật sau đó.
+
+### 1. Tổng Quan Phân Bổ Token BNB Ban Đầu
+
+Khi Binance Coin (BNB) được tạo ra vào tháng 7 năm 2017, tổng nguồn cung ban đầu được ấn định là 200 triệu token [1]. Nguồn cung này được phân bổ cho ba nhóm chính:
+
+*   **Chào bán công khai (ICO):** 100 triệu BNB (50% tổng cung) [1, 2].
+*   **Đội ngũ sáng lập (Founding Team):** 80 triệu BNB (40% tổng cung) [3, 4, 5].
+*   **Nhà đầu tư thiên thần (Angel Investors):** 20 triệu BNB (10% tổng cung) [2].
+
+### 2. Lịch Trình Vesting Gốc Dành Cho Đội Ngũ Sáng Lập
+
+Đội ngũ sáng lập được phân bổ 80 triệu BNB, chiếm 40% tổng nguồn cung. Theo kế hoạch được nêu trong Sách trắng, số token này không được mở khóa hoàn toàn ngay lập tức mà tuân theo một lịch trình vesting kéo dài 5 năm để đảm bảo sự cam kết lâu dài của đội ngũ với dự án [5, 6, 7].
+
+Cơ chế mở khóa dần theo từng đợt được thực hiện như sau:
+
+*   **Mở khóa ban đầu (Tại thời điểm Genesis):** 20% trong tổng số 80 triệu BNB của đội ngũ, tương đương **16 triệu BNB**, đã được mở khóa ngay tại thời điểm tạo token [6, 7].
+*   **Mở khóa hàng năm:** 80% còn lại (64 triệu BNB) được lên kế hoạch mở khóa đều đặn trong 4 năm tiếp theo. Mỗi năm, 20% trong số 80 triệu BNB (tức là **16 triệu BNB**) sẽ được mở khóa cho đội ngũ [6, 7].
+
+Lịch trình mở khóa chi tiết có thể được tóm tắt như sau:
+*   **Năm 0 (2017 - Genesis):** Mở khóa 16 triệu BNB.
+*   **Năm 1 (2018):** Mở khóa thêm 16 triệu BNB.
+*   **Năm 2 (2019):** Mở khóa thêm 16 triệu BNB.
+*   **Năm 3 (2020):** Mở khóa thêm 16 triệu BNB.
+*   **Năm 4 (2021):** Mở khóa 16 triệu BNB cuối cùng.
+
+Một số nguồn thông tin ban đầu có thể đề cập đến việc 50% (40 triệu BNB) được mở khóa ngay lập tức [1]. Tuy nhiên, các tài liệu và phân tích chi tiết hơn từ Sách trắng chính thức xác nhận rằng con số chính xác là 20% (16 triệu BNB) được mở khóa tại thời điểm ban đầu, và phần còn lại được trả dần trong 4 năm sau đó, tạo thành một kế hoạch vesting tổng thể 5 năm [6, 7].
+
+### 3. Thay Đổi Quan Trọng: Đưa Token Của Đội Ngũ Vào Cơ Chế Đốt Token Hàng Quý
+
+Kế hoạch vesting ban đầu đã có một sự thay đổi đáng kể và mang tính chiến lược bắt đầu từ quý 2 năm 2019. Binance thông báo rằng toàn bộ 80 triệu BNB được phân bổ cho đội ngũ sáng lập sẽ được đưa vào cơ chế đốt token hàng quý của công ty [2].
+
+**Cơ chế hoạt động:**
+
+*   **Cam kết đốt token:** Đội ngũ sáng lập đã từ bỏ quyền nhận token của mình. Thay vì các token này được trả (vested) và đi vào lưu thông, chúng sẽ được giữ lại và đốt dần cho đến khi toàn bộ 80 triệu BNB này bị tiêu hủy [2].
+*   **Tác động:** Quyết định này có nghĩa là số token dành cho đội ngũ sẽ không bao giờ được đưa ra thị trường. Điều này giúp giảm đáng kể nguồn cung lưu hành tiềm năng của BNB trong tương lai, giảm bớt áp lực lạm phát có thể xảy ra từ việc các thành viên trong đội ngũ bán token của họ [2].
+*   **Cập nhật Sách trắng:** Vào tháng 4 năm 2019, Binance đã chính thức sửa đổi Sách trắng của mình. Thay vì mô tả cơ chế "mua lại" (buyback) BNB bằng 20% lợi nhuận hàng quý, họ đã chuyển sang mô tả cơ chế "đốt" (burn) trực tiếp một lượng BNB tương đương từ các ví của mình, bao gồm cả lượng token đã được phân bổ cho đội ngũ [2].
+
+Hành động này được xem là một cam kết mạnh mẽ của đội ngũ Binance đối với sự thành công lâu dài của hệ sinh thái BNB, ưu tiên việc giảm tổng cung và tăng giá trị cho tất cả những người nắm giữ token.
+
+### Tổng Kết
+
+Lịch trình trả token cho đội ngũ sáng lập Binance ban đầu được thiết kế theo một kế hoạch vesting 5 năm, với 20% (16 triệu BNB) được mở khóa ngay lập tức và 20% được mở khóa mỗi năm trong 4 năm tiếp theo. Tuy nhiên, kể từ quý 2 năm 2019, một thay đổi mang tính bước ngoặt đã được thực hiện: toàn bộ 80 triệu BNB của đội ngũ được cam kết cho cơ chế đốt token hàng quý, nghĩa là chúng sẽ không bao giờ đi vào nguồn cung lưu hành. Điều này thể hiện sự liên kết lợi ích lâu dài giữa đội ngũ và sự phát triển của hệ sinh thái BNB.
+
+## Phân Bổ Token cho Các Nhà Đầu Tư Thiên Thần
+
+Báo cáo này phân tích chi tiết về lịch trình trả token (vesting) và cơ chế phân phối BNB cho các nhà đầu tư thiên thần của Binance, dựa trên Sách trắng gốc năm 2017, các báo cáo điều tra và dữ liệu on-chain. Mặc dù Sách trắng đề cập đến việc phân bổ token cho nhóm này, các bằng chứng sau đó cho thấy những khác biệt đáng kể trong quá trình phân phối.
+
+### 1. Lịch Trình Trả Token (Vesting) cho Nhà Đầu Tư Thiên Thần
+
+Dựa trên các tài liệu công khai và kết quả điều tra, không có bằng chứng dứt khoát hay tuyên bố chính thức nào từ Binance về một lịch trình trả token (vesting) cụ thể được áp dụng cho các nhà đầu tư thiên thần .
+
+*   **Thiếu thông tin công khai:** Không có tài liệu nào, bao gồm cả Sách trắng ban đầu , các thông báo chính thức  hay các nguồn dữ liệu tokenomics tổng hợp [8, 9], nêu chi tiết về một giai đoạn khóa token (lock-up) hay lịch trình trả token theo thời gian cho 10% tổng cung ban đầu được phân bổ cho các nhà đầu tư thiên thần.
+*   **Dữ liệu gợi ý mở khóa sớm:** Một nguồn tin cho rằng các nhà đầu tư nói chung đã nhận được token BNB trong vòng 5 ngày làm việc sau khi ICO kết thúc . Nguồn này cũng đưa ra giả định rằng các token được mở khóa ngay từ đầu hoặc 20% được mở khóa ngay từ đầu . Sự không rõ ràng này cho thấy có khả năng các nhà đầu tư thiên thần không bị ràng buộc bởi một lịch trình vesting phức tạp hoặc token của họ đã được mở khóa ngay lập tức.
+*   **So sánh với đội ngũ sáng lập:** Ngược lại, việc phân bổ 80 triệu BNB (40% tổng cung) cho đội ngũ sáng lập lại có một lịch trình vesting rất rõ ràng kéo dài 5 năm, như đã trình bày chi tiết ở phần trước của báo cáo [5, 6, 7]. Sự tồn tại của một lịch trình chi tiết cho đội ngũ sáng lập và sự vắng mặt hoàn toàn thông tin tương tự cho các nhà đầu tư thiên thần càng củng cố khả năng rằng các nhà đầu tư thiên thần không có lịch trình vesting hoặc lịch trình của họ rất đơn giản và không được công bố.
+
+**Kết luận về Vesting:** Do thiếu các tuyên bố chính thức và bằng chứng cụ thể, không thể xác định một cách dứt khoát liệu các nhà đầu tư thiên thần của Binance có phải tuân theo bất kỳ lịch trình trả token nào hay không. Rất có thể token của họ đã được mở khóa hoàn toàn ngay sau khi ICO kết thúc.
+
+### 2. Phân Phối Token: Sự Khác Biệt Giữa Sách Trắng và Thực Tế
+
+Quá trình phân phối token BNB sau Đợt Chào Bán Coin Lần Đầu (ICO) đã cho thấy những sai lệch đáng kể so với kế hoạch ban đầu, đặc biệt là về số lượng token được phân bổ cho các nhà đầu tư thiên thần và số token bán ra trong ICO.
+
+*   **Số lượng phân bổ cho nhà đầu tư thiên thần:**
+    *   **Theo Sách trắng:** Kế hoạch ban đầu là phân bổ 20 triệu token BNB, tương đương 10% tổng cung 200 triệu, cho các nhà đầu tư thiên thần [1, 2, 8, 9].
+    *   **Theo các báo cáo điều tra:** Các cuộc điều tra từ Forbes và các nguồn tin như CryptoSlate, NewsBTC lại chỉ ra rằng trên thực tế, các nhà đầu tư thiên thần đã nhận được **40 triệu token BNB**, gấp đôi con số được công bố .
+*   **Quá trình phân phối và dòng tiền ICO:**
+    *   **Thời gian ICO:** Sách trắng dự kiến ICO kéo dài ba tuần, nhưng trên thực tế, đợt huy động 15 triệu đô la đã hoàn thành trong vòng chưa đầy ba phút .
+    *   **Phân phối sau ICO:** Các phân tích on-chain cho thấy từ ngày 6 tháng 7 đến ngày 14 tháng 8 năm 2017, Binance chỉ chuyển khoảng 55 triệu BNB trong 13 giao dịch, thay vì 120 triệu BNB như đã tuyên bố (bao gồm 100 triệu cho ICO và 20 triệu cho nhà đầu tư thiên thần) .
+
+### 3. Bối Cảnh Rộng Hơn: Sự Thiếu Minh Bạch và Quyền Kiểm Soát Token của Binance
+
+Những khác biệt trong việc phân phối token cho nhà đầu tư thiên thần chỉ là một phần của một bức tranh lớn hơn về sự thiếu minh bạch và việc Binance giữ lại quyền kiểm soát một lượng lớn token BNB.
+
+*   **Số lượng token bán ra trong ICO:**
+    *   **Theo Sách trắng:** Binance tuyên bố sẽ bán 100 triệu BNB (50% tổng cung) trong đợt ICO [1, 2, 9].
+    *   **Thực tế theo điều tra:** Một cuộc điều tra của Forbes phối hợp với các công ty pháp y tiền điện tử như Gray Wolf Analytics ước tính rằng chỉ có khoảng **10.78 triệu BNB** thực sự được bán cho các nhà đầu tư, thu về chưa đến 5 triệu USD [12, 11]. Điều này có nghĩa là một lượng lớn token không bán được đã không được xử lý một cách minh bạch.
+*   **Số phận của các token chưa bán được:**
+    *   Forbes cáo buộc rằng Sách trắng của Binance đã không tiết lộ kế hoạch của công ty đối với các token chưa bán được nếu ICO không đạt mục tiêu đề ra .
+    *   Các token BNB không bán được sau đó đã được chuyển vào các ví do Binance kiểm soát. Ước tính có khoảng 58 triệu đến 65 triệu BNB chưa bán được nằm dưới sự kiểm soát của công ty và các giám đốc điều hành [11, 12].
+*   **Quyền sở hữu tập trung:**
+    *   Kết quả của việc này là Binance và đội ngũ sáng lập kiểm soát một tỷ lệ token BNB lớn hơn nhiều so với công bố. Forbes ước tính rằng Binance và các thành viên của họ kiểm soát khoảng **117 triệu token BNB**, chiếm tới 76% tổng nguồn cung lưu hành tại thời điểm báo cáo [11, 12].
+    *   Nhà sáng lập Changpeng Zhao (CZ), với 90% cổ phần tại Binance, được cho là sở hữu cá nhân gần **94 triệu token BNB**, tương đương 64% tổng nguồn cung lưu hành, với giá trị ước tính hàng chục tỷ đô la [11, 12].
+
+**Tổng Kết**
+
+Không có bằng chứng công khai và đáng tin cậy nào cho thấy các nhà đầu tư thiên thần của Binance phải tuân theo một lịch trình trả token (vesting); có khả năng token của họ đã được mở khóa hoàn toàn ngay sau ICO. Tuy nhiên, quá trình phân phối token đã diễn ra với sự khác biệt đáng kể so với Sách trắng, khi họ nhận được 40 triệu BNB thay vì 20 triệu BNB công bố . Toàn bộ quá trình ICO và phân phối token BNB ban đầu được đặc trưng bởi sự thiếu minh bạch. Các cuộc điều tra cho thấy Binance đã không bán hết số token như tuyên bố và đã giữ lại quyền kiểm soát một lượng lớn token chưa bán được, dẫn đến sự tập trung quyền sở hữu cao vào tay công ty và nhà sáng lập Changpeng Zhao [11, 12]. Những khác biệt này đã làm dấy lên các câu hỏi nghiêm túc về tính toàn vẹn và các biện pháp bảo vệ nhà đầu tư của sàn giao dịch.
+
+## Phân Phối Token qua Đợt Chào Bán Công Khai (ICO)
+
+Đợt Chào bán Công khai (Initial Coin Offering - ICO) của Binance cho token gốc BNB (viết tắt của "Build n' Build") vào năm 2017 là một sự kiện nền tảng, không chỉ nhằm huy động vốn mà còn đặt móng cho sự phát triển của một trong những hệ sinh thái tiền mã hóa lớn nhất thế giới. Đợt ICO này đã được thiết kế để phân phối một nửa tổng cung token cho cộng đồng với các mục tiêu chiến lược rõ ràng.
+
+### 1. Kế Hoạch Phân Phối Token BNB trong Đợt ICO
+
+Trong đợt ICO diễn ra từ ngày 26 tháng 6 đến ngày 3 tháng 7 năm 2017, Binance đã lên kế hoạch phân phối **100 triệu token BNB** cho các nhà đầu tư công chúng [1, 2]. Con số này chiếm **50% tổng cung ban đầu** là 200 triệu token BNB .
+
+Theo Sách trắng của Binance, mục tiêu huy động vốn là **15 triệu USD**, với giá ICO được định là **0,15 USD** mỗi token BNB . Vào thời điểm đó, các nhà đầu tư có thể mua 2.700 BNB với 1 ETH .
+
+Đợt ICO được tiến hành trên mạng lưới Ethereum, và ban đầu BNB là một tài sản kỹ thuật số theo tiêu chuẩn ERC20. Sau khi BNB Chain (lúc đó là Binance Chain) ra mắt vào năm 2019, người dùng có thể hoán đổi token ERC20 của họ sang token BEP2 gốc theo tỷ lệ 1:1 . Sàn giao dịch Binance chính thức đi vào hoạt động 11 ngày sau khi kết thúc đợt ICO BNB .
+
+### 2. Mục Tiêu Chiến Lược của Việc Phân Phối Rộng Rãi cho Cộng Đồng
+
+Việc phân bổ 50% tổng cung token cho cộng đồng không chỉ là một phương thức huy động vốn đơn thuần mà còn là một động thái chiến lược có chủ đích nhằm đạt được nhiều mục tiêu quan trọng, như được nêu trong Sách trắng năm 2017 của Binance và các thông điệp ban đầu [13, 14].
+
+#### a. Khuyến Khích Việc Áp Dụng và Sử Dụng Nền Tảng
+Mục tiêu chính và trực tiếp nhất của việc phân phối BNB là tạo ra một động lực mạnh mẽ để người dùng chấp nhận và sử dụng sàn giao dịch Binance [13, 14]. Tiện ích cốt lõi ban đầu của BNB là cho phép người dùng thanh toán phí giao dịch trên sàn Binance với mức chiết khấu đáng kể [13, 14]. Sách trắng nêu rõ rằng "người nắm giữ token BNB sẽ được giảm giá phí trên nền tảng" [18]. Điều này trực tiếp khuyến khích người dùng mua, nắm giữ và sử dụng BNB, từ đó tạo ra một cộng đồng người dùng trung thành và có sự gắn kết về mặt lợi ích với sự thành công của sàn giao dịch [17].
+
+#### b. Huy Động Vốn để Tăng Trưởng và Phát Triển
+Số tiền 15 triệu USD được kỳ vọng huy động từ ICO là nguồn vốn khởi điểm quan trọng để Binance trở thành một "sàn giao dịch tiền mã hóa đẳng cấp thế giới" [18]. Nguồn vốn này được phân bổ chủ yếu cho việc nâng cấp nền tảng giao dịch, các nỗ lực tiếp thị và các sáng kiến giáo dục cộng đồng . Sách trắng của Binance nêu rõ rằng "50% [số vốn huy động] sẽ được sử dụng cho việc xây dựng thương hiệu và tiếp thị của Binance, bao gồm việc quảng bá và giáo dục liên tục về Binance và các cải tiến blockchain... để giúp Binance trở nên phổ biến với các nhà đầu tư và thu hút người dùng tích cực đến với nền tảng" [18]. Điều này cho thấy mục tiêu rõ ràng là nhanh chóng thu hút một lượng lớn người dùng.
+
+#### c. Xây Dựng Cộng Đồng và Tạo Hiệu Ứng Mạng Lưới
+Bằng cách phân phối token cho một lượng lớn nhà đầu tư, Binance đã tạo ra một cộng đồng có lợi ích gắn liền với sự phát triển của dự án. Việc có hàng ngàn người nắm giữ token giúp tạo ra một mạng lưới phi tập trung hơn về mặt sở hữu, làm tăng sự tin tưởng và ổn định cho hệ sinh thái. Khi người dùng nắm giữ BNB, họ không chỉ là khách hàng mà còn là những người có cổ phần trong sự thành công của nền tảng, thúc đẩy họ tham gia tích cực hơn và quảng bá cho Binance một cách tự nhiên.
+
+#### d. Đặt Nền Móng cho một Hệ Sinh Thái Tài Chính Phi Tập Trung trong Tương Lai
+Tầm nhìn của Binance ngay từ đầu đã vượt ra ngoài một sàn giao dịch tập trung. Việc phân phối BNB là bước đầu tiên trong việc xây dựng một hệ sinh thái tài chính toàn diện [17]. Sách trắng đã vạch ra một tầm nhìn rộng lớn về một "hệ sinh thái tài chính phi tập trung trao quyền cho người dùng thông qua chi phí giao dịch thấp hơn, khả năng tiếp cận nâng cao và các dịch vụ sáng tạo" [17]. Sách trắng cũng nêu rõ rằng "BNB sẽ được sử dụng để thanh toán phí trên nền tảng phi tập trung trong tương lai của Binance, Binance Chain, một khi nó được xây dựng" [18]. Các mục tiêu chính bao gồm "Phi tập trung hóa", "Khả năng tiếp cận", và "Sự đổi mới" nhằm khuyến khích phát triển các sản phẩm và dịch vụ tài chính mới trên nền tảng Binance [17].
+
+### 3. Sự Khác Biệt Giữa Kế Hoạch và Thực Tế Phân Phối ICO
+
+Trong khi kế hoạch ICO của Binance đặt mục tiêu bán 100 triệu BNB và huy động 15 triệu USD, các cuộc điều tra và phân tích sau đó đã chỉ ra sự khác biệt đáng kể giữa kế hoạch và thực tế. Như đã trình bày chi tiết trong phần "Phân Bổ Token cho Các Nhà Đầu Tư Thiên Thần" của báo cáo này, các cuộc điều tra từ Forbes và các công ty pháp y tiền điện tử ước tính rằng chỉ có khoảng **10,78 triệu BNB** thực sự được bán cho các nhà đầu tư, thu về chưa đến 5 triệu USD [11, 12]. Điều này cho thấy một lượng lớn token không bán được đã không được xử lý một cách minh bạch, và ước tính khoảng 58 triệu đến 65 triệu BNB chưa bán được đã nằm dưới sự kiểm soát của Binance và các giám đốc điều hành [11, 12].
+
+Những phát hiện này làm nổi bật rằng, mặc dù kế hoạch phân phối ICO hướng tới mục tiêu huy động vốn và xây dựng cộng đồng rộng rãi, thực tế triển khai đã dẫn đến việc Binance và đội ngũ sáng lập giữ quyền kiểm soát một lượng lớn token BNB hơn nhiều so với công bố ban đầu, dẫn đến sự tập trung quyền sở hữu cao [11, 12].
+
+## Cơ Chế Đốt Token và Tác Động Đến Nguồn Cung
+
+### 1. Tổng Quan về Cơ Chế Đốt Token BNB
+
+Cơ chế đốt token BNB (BNB Burn) là một trong những trụ cột chính trong mô hình kinh tế của token BNB, được thiết kế để giảm dần tổng nguồn cung, từ đó tạo ra sự khan hiếm và hỗ trợ giá trị của token trong dài hạn. Mục tiêu cuối cùng là giảm tổng cung ban đầu từ 200 triệu BNB xuống còn 100 triệu BNB [20]. Cơ chế này đã trải qua một quá trình phát triển đáng kể, chuyển từ một mô hình phụ thuộc vào doanh thu của sàn giao dịch sang một hệ thống tự động, minh bạch và có thể dự đoán được. Hiện tại, có hai cơ chế đốt chính hoạt động song song:
+
+*   **Tự động đốt BNB (BNB Auto-Burn)**: Hoạt động hàng quý, thay thế cơ chế đốt cũ dựa trên doanh thu của Binance.
+*   **Đốt theo thời gian thực (BEP-95)**: Hoạt động liên tục, đốt một phần phí giao dịch trên BNB Chain [19].
+
+### 2. Các Cơ Chế Đốt Token BNB Chi Tiết
+
+Cơ chế đốt BNB không phải là một quy trình đơn lẻ mà là sự kết hợp của nhiều cơ chế khác nhau nhằm tăng tốc độ giảm nguồn cung một cách hiệu quả và minh bạch.
+
+#### 2.1. Sự Phát Triển: Từ Đốt Hàng Quý Cũ Sang Tự Động Đốt (Auto-Burn)
+
+Ban đầu, Binance thực hiện việc đốt BNB hàng quý dựa trên khối lượng giao dịch trên sàn giao dịch của mình. Tuy nhiên, cơ chế này thiếu sự minh bạch và khách quan vì nó gắn liền với dữ liệu tài chính riêng của một công ty tập trung.
+
+Để giải quyết vấn đề này, vào tháng 12 năm 2021, Binance đã giới thiệu cơ chế **Tự động đốt BNB (BNB Auto-Burn)** để thay thế cho cơ chế cũ. Sự thay đổi này mang lại những ưu điểm vượt trội [19]:
+
+*   **Minh bạch và Khách quan:** Cơ chế mới hoàn toàn độc lập với doanh thu của sàn Binance. Thay vào đó, nó dựa trên dữ liệu on-chain của BNB Chain, có thể được kiểm chứng công khai bởi bất kỳ ai.
+*   **Khả năng dự đoán:** Vì dựa trên một công thức cố định, cộng đồng có thể dự báo tương đối chính xác lượng BNB sẽ bị đốt trong mỗi quý.
+
+#### 2.2. Cơ Chế Tự Động Đốt BNB (BNB Auto-Burn)
+
+Đây là cơ chế đốt chính diễn ra hàng quý. Lượng BNB bị đốt được tính toán tự động dựa trên một công thức toán học sử dụng hai biến số chính từ BNB Chain: giá của BNB và số lượng khối được tạo ra trong quý đó [19].
+
+Công thức được xác định như sau:
+
+**B = (N * K) / P**
+
+Trong đó:
+
+*   **B**: là tổng lượng BNB sẽ bị đốt.
+*   **N**: là tổng số khối được tạo ra trên BNB Chain trong quý.
+*   **P**: là giá trung bình của BNB (so với USD) trong quý.
+*   **K**: là một hằng số neo giá, được thiết lập ban đầu là 1000 để làm mốc tham chiếu. Giá trị này có thể được điều chỉnh thông qua các đề xuất quản trị của BNB Chain [19].
+
+**Cách hoạt động của công thức:** Lượng BNB bị đốt (**B**) có mối quan hệ **tỷ lệ nghịch** với giá của BNB (**P**). Điều này có nghĩa là:
+
+*   Khi **giá BNB tăng**, số lượng BNB bị đốt trong quý sẽ **giảm**.
+*   Khi **giá BNB giảm**, số lượng BNB bị đốt trong quý sẽ **tăng**.
+
+Cơ chế này được thiết kế để ổn định giá trị USD của lượng token bị đốt qua các quý, giúp quá trình giảm cung trở nên mượt mà hơn và tránh gây sốc cho thị trường, bất kể biến động giá ngắn hạn. Cơ chế Tự động đốt sẽ tự động dừng lại khi tổng nguồn cung lưu hành của BNB giảm xuống dưới 100 triệu [19].
+
+#### 2.3. Cơ Chế Đốt Theo Thời Gian Thực (BEP-95)
+
+Được giới thiệu vào tháng 11 năm 2021, BEP-95 là một cơ chế đốt bổ sung nhằm mục đích tăng tốc quá trình giảm cung tổng thể. Không giống như Auto-Burn diễn ra hàng quý, BEP-95 hoạt động liên tục trong thời gian thực [19].
+
+**Cách hoạt động:**
+
+*   Một phần phí gas (phí giao dịch) thu được trên mỗi khối của BNB Chain sẽ được gửi đến một địa chỉ ví "đốt" không thể truy cập.
+*   Tỷ lệ phí gas bị đốt được quyết định bởi các nhà xác thực (validators) của mạng lưới.
+*   Cơ chế này tạo ra một vòng lặp tích cực: khi mạng lưới BNB Chain được sử dụng nhiều hơn, nhiều giao dịch được thực hiện, phí gas thu được tăng lên, và do đó, lượng BNB bị đốt cũng tăng theo.
+
+Một điểm khác biệt quan trọng của BEP-95 là nó **sẽ tiếp tục hoạt động ngay cả sau khi mục tiêu 100 triệu BNB đã đạt được** [19]. Điều này đảm bảo rằng BNB sẽ tiếp tục có một áp lực giảm phát liên tục miễn là mạng lưới vẫn còn hoạt động, củng cố tính kinh tế bền vững của nó trong dài hạn.
+
+### 3. Tác Động Đến Tính Kinh Tế và Sự Ổn Định Dài Hạn của BNB
+
+Sự kết hợp của các cơ chế đốt này tạo ra những tác động sâu sắc và đa chiều đến mô hình kinh tế của token BNB.
+
+#### 3.1. Tạo ra Hiệu ứng Giảm phát và Tăng cường Sự Khan hiếm
+
+Đây là tác động trực tiếp và rõ ràng nhất. Bằng cách loại bỏ vĩnh viễn BNB khỏi lưu thông, tổng nguồn cung giảm đi. Theo nguyên tắc kinh tế cơ bản về cung và cầu, việc giảm nguồn cung trong khi nhu cầu không đổi hoặc tăng sẽ có xu hướng đẩy giá trị của tài sản lên cao [20]. Mục tiêu giảm 50% tổng cung ban đầu là một cam kết mạnh mẽ về việc tạo ra một tài sản ngày càng khan hiếm theo thời gian, tương tự như cơ chế "halving" của Bitcoin.
+
+#### 3.2. Thúc đẩy Sự Ổn định Giá cả
+
+Cơ chế Auto-Burn được thiết kế một cách thông minh để đóng vai trò như một bộ điều tiết kinh tế. Bằng cách đốt nhiều BNB hơn khi giá thấp và ít hơn khi giá cao, nó giúp làm dịu bớt các biến động cực đoan của thị trường [19].
+
+*   **Trong thị trường giảm giá (bear market):** Việc đốt một lượng lớn BNB hơn có thể tạo ra tâm lý tích cực, báo hiệu rằng cơ chế giảm cung đang hoạt động mạnh mẽ để hỗ trợ giá trị.
+*   **Trong thị trường tăng giá (bull market):** Việc đốt ít BNB hơn giúp tránh "đổ thêm dầu vào lửa", hạn chế sự tăng trưởng quá nóng có thể dẫn đến bong bóng và sụp đổ sau đó.
+
+#### 3.3. Tăng cường Sự Tin cậy và Minh bạch
+
+Việc chuyển đổi sang cơ chế Auto-Burn dựa trên dữ liệu on-chain là một bước tiến lớn về tính minh bạch. Nó loại bỏ sự phụ thuộc vào các số liệu kinh doanh nội bộ của Binance và cho phép bất kỳ ai cũng có thể kiểm tra và xác minh quá trình đốt token. Điều này xây dựng niềm tin lâu dài cho các nhà đầu tư và người dùng trong hệ sinh thái, vì họ biết rằng mô hình kinh tế của token không bị thao túng một cách tùy tiện [19].
+
+#### 3.4. Gắn kết Giá trị của Token với Sự Tăng trưởng của Hệ sinh thái
+
+Cơ chế đốt BEP-95 tạo ra một mối liên kết trực tiếp giữa sự thành công của hệ sinh thái BNB Chain và giá trị của token BNB. Khi có nhiều ứng dụng (DApps), dự án và người dùng tham gia vào BNB Chain, hoạt động mạng lưới sẽ tăng lên, dẫn đến nhiều phí gas được tạo ra và nhiều BNB bị đốt hơn [19]. Điều này có nghĩa là sự tăng trưởng của hệ sinh thái sẽ tự động chuyển thành áp lực giảm phát cho token, tạo ra lợi ích cho những người nắm giữ BNB.
+
+### 4. Dữ liệu Lịch sử về các Đợt Đốt BNB
+
+Toàn bộ lịch sử các đợt đốt BNB đều được ghi lại công khai và có thể theo dõi trên các trình khám phá blockchain hoặc các trang web chuyên dụng như BNBBurn.info. Dữ liệu từ Coin Tools cho thấy các đợt đốt đã diễn ra đều đặn hàng quý kể từ tháng 10 năm 2017 [20].
+
+*   **Tần suất:** Các đợt đốt Auto-Burn diễn ra hàng quý, thường vào các tháng 1, 4, 7 và 10 [20].
+*   **Quy mô:** Lượng BNB bị đốt trong mỗi quý thường chiếm từ 0.5% đến 2% tổng cung tại thời điểm đó [20].
+*   **Giá trị:** Khi giá trị của BNB tăng lên qua các năm, tổng giá trị USD của lượng BNB bị đốt trong mỗi quý cũng tăng lên đáng kể. Ví dụ, trong đợt đốt hàng quý lần thứ 28, có 1.643.698,8 BNB đã bị đốt thông qua Auto-Burn, với giá trị ước tính tại thời điểm đó là khoảng 971 triệu USD.
+
+### 5. Kết Luận
+
+Cơ chế đốt token hàng năm của BNB là một chiến lược kinh tế phức tạp và được tính toán kỹ lưỡng, đã phát triển để trở nên minh bạch, tự động và hiệu quả hơn. Sự kết hợp giữa **BNB Auto-Burn** (hàng quý, ổn định) và **BEP-95** (liên tục, gắn liền với hoạt động mạng) tạo ra một áp lực giảm phát mạnh mẽ và bền vững [19]. Trong dài hạn, cơ chế này không chỉ có khả năng làm tăng giá trị của BNB thông qua việc tạo ra sự khan hiếm mà còn góp phần vào sự ổn định của token và xây dựng niềm tin của cộng đồng bằng cách gắn chặt lợi ích kinh tế của người nắm giữ token với sự phát triển chung của toàn bộ hệ sinh thái BNB Chain.
+
+## References:
+
+[1] https://tokentuesdays.substack.com/p/binance-coin-bnb  
+[2] https://altfins.com/blog/curated-chart/binance-bnb-analysis/  
+[3] https://www.ainvest.com/news/bnb-strategic-holding-evolving-crypto-ecosystem-founder-allocations-future-proofing-portfolios-2508/  
+[4] https://www.binance.com/en/square/post/359275  
+[5] https://www.cryptkeepers.club/binance-coin-bnb.html  
+[6] https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf  
+[7] https://www.mexc.com/price/BNB/tokenomics  
+[8] https://binance.zendesk.com/hc/en-us/articles/115000582852-Binance-Whitepaper-Binance-Coin-BNB  
+[9] https://academy.binance.com/en/articles/what-is-bnb  
+[10] https://www.binance.com/en/blog/ecosystem/what-is-bnb-858850  
+[11] https://www.investopedia.com/terms/b/binance-coin-bnb.asp  
+[12] https://www.coindesk.com/learn/2021/04/09/what-is-binance-coin/  
+[13] https://blockonomi.com/how-to-buy-binance-coin/  
+[14] https://tokenomics.com/projects/bnb  
+[15] (Implicitly from previous section, will check original source)  
+[16] https://www.forbes.com/sites/javierpaz/2020/10/29/leaked-tai-chi-document-reveals-how-binance-set-up-a-fake-us-office-and-fooled-regulators/  
+[17] https://news.fmcpay.com/analyzing-bnb-whitepaper-evolution-of-binance.html  
+[18] https://www.swanbitcoin.com/industry/binance-raising-eyebrows-since-2017/  
+[19] https://academy.binance.com/en/articles/what-is-bnb-auto-burn  
+[20] https://www.coin-tools.com/bnb/bnb-burn-history/

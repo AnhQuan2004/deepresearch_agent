@@ -1,0 +1,51 @@
+[
+  {
+    "report_dir": "reports/20250915-170401-tốc-độ-tăng-trưởng-kép-hàng-năm-cagr-của-lĩnh-vực-dự-án-bnb-",
+    "question": "Tốc độ tăng trưởng kép hàng năm (CAGR) của lĩnh vực dự án bnb hoạt động có được dự báo > 20% không?CAGR chung của blockchain, dApp, Smart Contract (Grandview)",
+    "verdict": "Có",
+    "detail_bullets": [
+      "Dự báo tốc độ tăng trưởng kép hàng năm (CAGR) của các dự án trên Chuỗi BNB vượt quá 20% được cho là có cơ sở và khả thi, dù không có con số chính thức nào được công bố. [1, 2, 3, 4]",
+      "Theo Grand View Research, thị trường công nghệ blockchain toàn cầu được dự báo có CAGR từ 87,7% (giai đoạn 2023-2030) đến 90,1% (giai đoạn 2025-2030). [1, 2, 14]",
+      "Phân khúc ứng dụng phi tập trung (dApps) toàn cầu được Grand View Research dự báo tăng trưởng với CAGR là 52,5% trong giai đoạn 2025-2030. [15]",
+      "Báo cáo không có CAGR riêng cho hợp đồng thông minh nhưng suy luận rằng nó gần với CAGR 53,7% của toàn bộ thị trường Tài chính phi tập trung (DeFi). [5, 6]"
+    ],
+    "citations": [
+      {
+        "id": 1,
+        "url": "https://messari.io"
+      },
+      {
+        "id": 2,
+        "url": "https://bnbchain.org"
+      },
+      {
+        "id": 3,
+        "url": "https://ainvest.com"
+      },
+      {
+        "id": 4,
+        "url": "https://forklog.com"
+      },
+      {
+        "id": 5,
+        "url": "https://coinlaw.io/tron-statistics/"
+      },
+      {
+        "id": 6,
+        "url": "https://www.bitdegree.org/cryptocurrency-comparison/bnb-vs-tron"
+      },
+      {
+        "id": 14,
+        "url": "https://www.grandviewresearch.com/horizon/outlook/blockchain-technology-market-size/global"
+      },
+      {
+        "id": 15,
+        "url": "https://www.grandviewresearch.com/horizon/statistics/decentralized-finance-market/component/decentralized-applications-dapps/global"
+      }
+    ],
+    "error": null,
+    "warnings": [
+      "Citations không được tham chiếu: [7, 8, 9, 10, 11, 12, 13, 16] → ĐÃ CẮT BỎ"
+    ]
+  }
+]

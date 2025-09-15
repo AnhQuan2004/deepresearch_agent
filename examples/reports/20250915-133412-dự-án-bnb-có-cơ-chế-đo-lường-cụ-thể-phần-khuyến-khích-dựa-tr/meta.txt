@@ -1,0 +1,5 @@
+query: Dự án bnb có cơ chế đo lường cụ thể phần khuyến khích dựa trên đóng góp không?
+slug: dự-án-bnb-có-cơ-chế-đo-lường-cụ-thể-phần-khuyến-khích-dựa-tr
+time: 20250915-133412
+len_chars: 29113
+status: success

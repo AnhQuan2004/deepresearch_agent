@@ -1,0 +1,162 @@
+# Phân tích lịch trình phát hành token BNB
+
+## Table of Contents
+
+1. Chi tiết về đợt Phát hành Coin Ban đầu (ICO) của BNB
+2. Phân bổ 50% nguồn cung còn lại
+3. Kết luận về khung thời gian phát hành
+
+## Chi tiết về đợt Phát hành Coin Ban đầu (ICO) của BNB
+
+Đợt Phát hành Coin Ban đầu (ICO) của Binance Coin (BNB) là một sự kiện quan trọng, đặt nền móng cho sự phát triển của sàn giao dịch Binance để trở thành một trong những nền tảng tiền mã hóa hàng đầu thế giới. Diễn ra vào tháng 7 năm 2017, sự kiện này đã huy động vốn và phân phối một nửa tổng nguồn cung ban đầu của BNB cho cộng đồng.
+
+### Tổng Quan Chi Tiết về Đợt ICO và Phân Bổ Token BNB (Binance Coin) Năm 2017
+
+#### 1. Chi Tiết Đợt Phát Hành Coin Ban Đầu (ICO)
+
+Đợt ICO của BNB được thiết kế để huy động 15 triệu USD nhằm mục đích xây dựng Binance thành một "sàn giao dịch tiền mã hóa đẳng cấp thế giới" [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf). Các thông tin chính về sự kiện ICO như sau:
+
+*   **Thời gian:** Tháng 7 năm 2017 [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+*   **Tổng nguồn cung ban đầu:** 200.000.000 BNB [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf), [2](https://streamflow.finance/blog/what-is-binance-coin-bnb-how-does-it-work/). Đây là con số cố định và không có thêm token nào được tạo ra sau đó.
+*   **Số lượng token bán ra trong ICO:** 100.000.000 BNB, tương đương 50% tổng nguồn cung [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf), [3](https://figment.io/insights/bnb-chain-tokenomics/).
+*   **Hình thức bán:** Việc bán token được thực hiện theo ba giai đoạn trên cơ sở ai đến trước được phục vụ trước (first-come, first-served) cho đến khi 100 triệu BNB được bán hết [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+*   **Giá ICO:** Giá bán cho mỗi token BNB trong đợt ICO là 0.15 USD [4](https://cryptorank.io/ico/bnb).
+
+Mục tiêu chính của việc huy động vốn này là để tài trợ cho các hoạt động cốt lõi của sàn giao dịch trong giai đoạn đầu.
+
+#### 2. Kế Hoạch Phân Bổ Toàn Bộ 200 Triệu Token BNB Ban Đầu
+
+Tổng nguồn cung 200 triệu BNB đã được phân bổ thành ba phần chính, đảm bảo lợi ích cho các nhà đầu tư công chúng, đội ngũ phát triển và những người ủng hộ sớm.
+
+**A. Chào Bán Công Khai (ICO) - 50% (100 triệu BNB)**
+
+Đây là phần lớn nhất trong cơ cấu phân bổ, trực tiếp trả lời câu hỏi về việc 50% tổng nguồn cung được phân phối như thế nào.
+
+*   **Phân phối:** 100 triệu token BNB đã được mở bán công khai cho các nhà đầu tư trên toàn thế giới [3](https://figment.io/insights/bnb-chain-tokenomics/). Sự kiện này cho phép các nhà đầu tư sớm mua BNB để sử dụng trên nền tảng và đầu tư vào tiềm năng tăng trưởng của Binance.
+*   **Mục đích:** Việc phân bổ này không chỉ nhằm huy động vốn mà còn để phân phối token một cách rộng rãi, tạo ra một cộng đồng người dùng và người nắm giữ token ban đầu, điều cần thiết cho tính thanh khoản và sự phát triển của hệ sinh thái [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+
+**B. Đội Ngũ Sáng Lập (Founding Team) - 40% (80 triệu BNB)**
+
+*   **Phân bổ:** 80 triệu token BNB được dành cho đội ngũ sáng lập và các thành viên chủ chốt của dự án [5](https://www.theblock.co/linked/31035/binance-burns-24-million-worth-of-bnb-tokens-allocated-to-team), [6](https://www.investopedia.com/terms/b/binance-coin-bnb.asp).
+*   **Mục đích:** Số token này được dùng làm phần thưởng và động lực để đội ngũ tiếp tục xây dựng, phát triển và quảng bá nền tảng Binance trong dài hạn [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+*   **Thông tin bổ sung:** Về sau, Binance đã công bố một kế hoạch quan trọng là sẽ đốt toàn bộ 80 triệu BNB được phân bổ cho đội ngũ. Quá trình này được thực hiện dần dần, và số BNB còn lại trong phần này cũng sẽ được sàn Binance.com đốt, thể hiện cam kết giảm tổng cung và tăng giá trị cho người nắm giữ token [7](https://www.binance.com/en/blog/all/356254016530468864), [8](https://wire.insiderfinance.io/binance-coin-bnb-a-comprehensive-analysis-aedab20c5aac).
+
+**C. Nhà Đầu Tư Thiên Thần (Angel Investors) - 10% (20 triệu BNB)**
+
+*   **Phân bổ:** 20 triệu token BNB, tương đương 10% tổng cung, đã được phân bổ cho các nhà đầu tư thiên thần [3](https://figment.io/insights/bnb-chain-tokenomics/), [9](https://www.findas.org/tokenomics-review/coins/the-tokenomics-of-bnb/r/8CycJKQV7ZpCczSgJj6o4k), [10](https://corporatefinanceinstitute.com/resources/cryptocurrency/binance-coin-bnb/), [6](https://www.investopedia.com/terms/b/binance-coin-bnb.asp).
+*   **Mục đích:** Đây là phần thưởng dành cho những người đã tin tưởng và hỗ trợ tài chính cho Binance trong giai đoạn phát triển sơ khai, trước cả khi ICO diễn ra [9](https://www.findas.org/tokenomics-review/coins/the-tokenomics-of-bnb/r/8CycJKQV7ZpCczSgJj6o4k).
+*   **Điều khoản:** Một chi tiết đáng chú ý là số token dành cho các nhà đầu tư thiên thần không bị khóa (vesting). Họ có quyền truy cập và sử dụng số token của mình ngay lập tức sau khi nhận [3](https://figment.io/insights/bnb-chain-tokenomics/).
+
+#### 3. Kế Hoạch Sử Dụng Nguồn Vốn 15 Triệu USD Huy Động Từ ICO
+
+Cần phân biệt rõ ràng giữa việc *phân bổ token* và việc *sử dụng số tiền huy động được*. Sách trắng của Binance đã nêu chi tiết cách họ dự định sử dụng 15 triệu USD thu được từ việc bán 100 triệu BNB [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf):
+
+*   **35% (5.25 triệu USD):** Dành cho việc xây dựng và nâng cấp nền tảng Binance. Chi phí này bao gồm tuyển dụng nhân sự, đào tạo, và phát triển hệ thống giao dịch [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+*   **50% (7.5 triệu USD):** Phân bổ cho việc xây dựng thương hiệu và tiếp thị. Mục tiêu là để quảng bá Binance, thu hút người dùng tích cực, và nâng cao vị thế của sàn trên thị trường toàn cầu [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+*   **15% (2.25 triệu USD):** Được giữ lại làm quỹ dự phòng cho các trường hợp khẩn cấp hoặc các tình huống không lường trước được, đảm bảo sự ổn định và bền vững của hoạt động [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+
+#### 4. Tiện Ích và Cơ Chế của Token BNB tại Thời Điểm Ra Mắt
+
+Ngay từ trong sách trắng năm 2017, Binance đã vạch ra những tiện ích rõ ràng cho người nắm giữ BNB, tạo ra nhu cầu sử dụng thực tế cho token này [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf):
+
+*   **Giảm phí giao dịch:** Người nắm giữ BNB có thể sử dụng token để thanh toán phí giao dịch trên sàn Binance và nhận được chiết khấu hấp dẫn.
+*   **Thanh toán phí trên Binance Chain:** BNB được dự định sẽ là tài sản gốc trên nền tảng sàn giao dịch phi tập trung (DEX) trong tương lai của Binance, Binance Chain [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+*   **Cơ chế đốt token (Token Burn):** Binance cam kết sử dụng 20% lợi nhuận hàng quý để mua lại BNB từ thị trường và "đốt" chúng (tiêu hủy vĩnh viễn). Quá trình này được thiết kế để giảm dần tổng cung lưu hành, từ đó có khả năng làm tăng giá trị của các token còn lại [1](https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf).
+
+Tóm lại, đợt ICO của BNB vào tháng 7 năm 2017 đã bán thành công 100 triệu token (50% tổng cung) cho công chúng. 50% còn lại được phân bổ cho đội ngũ sáng lập (40%) và các nhà đầu tư thiên thần (10%). Sự kiện này không chỉ huy động được nguồn vốn cần thiết mà còn đặt nền móng cho một hệ sinh thái vững mạnh với cơ chế tokenomics rõ ràng và tiện ích thực tế ngay từ đầu.
+
+## Phân bổ 50% nguồn cung còn lại
+
+Phần này phân tích chi tiết việc phân bổ 50% tổng nguồn cung token BNB ban đầu còn lại (tương đương 100 triệu BNB) không được bán trong đợt Chào bán Coin Ban đầu (ICO). Thông tin được trình bày dựa trên kế hoạch công bố trong sách trắng của Binance và các cáo buộc về sự khác biệt trong phân bổ thực tế từ một báo cáo điều tra của Forbes.
+
+### 1. Kế hoạch phân bổ theo Sách trắng chính thức của Binance
+
+Sách trắng chính thức của Binance, được công bố vào năm 2017, đã vạch ra kế hoạch phân bổ cho tổng nguồn cung 200 triệu token BNB. Trong đó, 100 triệu BNB (50%) được dành cho đợt ICO công khai [1].
+
+50% còn lại, tương đương **100 triệu BNB**, không được bán trong ICO, được lên kế hoạch phân bổ như sau:
+
+*   **Đội ngũ Binance và các Giám đốc điều hành:** Nhận **80 triệu BNB**, chiếm 40% tổng cung ban đầu [5], [6]. Số token này nhằm mục đích khuyến khích đội ngũ và thể hiện cam kết lâu dài của họ với sự phát triển của dự án [1].
+*   **Các nhà đầu tư thiên thần (Angel Investors):** Nhận **20 triệu BNB**, chiếm 10% tổng cung ban đầu [3], [9], [10], [6]. Đây là phần thưởng dành cho những người đã tin tưởng và hỗ trợ tài chính cho Binance trong giai đoạn phát triển sơ khai [9]. Điều khoản đáng chú ý là số token này không bị khóa (vesting) và có thể được sử dụng ngay lập tức [3].
+
+Theo kế hoạch ban đầu này, đội ngũ sáng lập và điều hành Binance giữ phần lớn số token không bán ra công chúng.
+
+### 2. Cáo buộc về sự khác biệt trong phân bổ thực tế (Báo cáo của Forbes)
+
+Một báo cáo điều tra chuyên sâu của Forbes, xuất bản vào ngày 5 tháng 10 năm 2023, có tiêu đề "How Binance Turned Its Failed Token ICO Into A Billion-Dollar Windfall" (Cách Binance biến đợt ICO token thất bại thành một vận may tỷ đô), đã đưa ra những cáo buộc về sự khác biệt đáng kể giữa con số công bố trong sách trắng và việc phân bổ trên thực tế [12], [13], [14].
+
+Báo cáo này, được hỗ trợ bởi các công ty phân tích pháp y tiền mã hóa, đưa ra những tuyên bố chính sau đây liên quan đến việc phân bổ token cho các nhà đầu tư thiên thần và đội ngũ Binance:
+
+*   **Nhà đầu tư thiên thần nhận được gấp đôi số token đã hứa:** Cáo buộc cốt lõi là các nhà đầu tư thiên thần đã thực sự nhận được **40 triệu BNB**, thay vì con số 20 triệu được nêu trong sách trắng. Theo báo cáo, 20 triệu token bổ sung đã được "âm thầm" phân bổ cho các nhà đầu tư này, làm tăng gấp đôi số cổ phần của họ [12], [14].
+*   **Tổng số token do người nội bộ kiểm soát lớn hơn nhiều:** Sự gia tăng phân bổ cho các nhà đầu tư thiên thần đã góp phần vào một lượng lớn BNB do Binance và những người nội bộ kiểm soát. Một báo cáo của NewsBTC dựa trên thông tin từ Forbes cho biết rằng các nhà sáng lập và người nội bộ của Binance cuối cùng đã nắm giữ tới **145 triệu BNB**, con số này cao hơn rất nhiều so với kế hoạch ban đầu là 80 triệu BNB dành cho đội ngũ [14].
+*   **Sự khác biệt trong kết quả ICO:** Báo cáo của Forbes cũng cáo buộc rằng đợt ICO của Binance có thể đã huy động được ít hơn 5 triệu USD, trái ngược với tuyên bố của cựu CEO Changpeng Zhao (CZ) là 15 triệu USD [12], [13], [14]. Hơn nữa, báo cáo cho rằng chỉ có khoảng 10,78 triệu BNB được chuyển đến các nhà đầu tư ICO, thay vì 100 triệu như đã hứa [12], [14].
+*   **Bằng chứng từ phân tích Blockchain:** Các kết luận của Forbes dựa trên phân tích blockchain, xác định các ví chưa được tiết lộ trước đây đang nắm giữ tiền của khách hàng và phục vụ cho các mục đích khác của công ty [12], [14]. Phân tích này cho thấy Binance và các thành viên của họ kiểm soát một lượng BNB đáng kể. Cụ thể, các ví bị nghi ngờ thuộc về Binance nắm giữ 63,1 triệu BNB (trị giá 15,7 tỷ USD), và khi kết hợp với các ví đã biết, Binance kiểm soát 116,9 triệu token (trị giá 27,3 tỷ USD) [11], [12].
+
+### 3. Phản hồi của Binance về các cáo buộc
+
+Tính đến thời điểm báo cáo của Forbes được xuất bản vào tháng 10 năm 2023, Binance và cựu CEO Changpeng Zhao (CZ) chưa đưa ra tuyên bố công khai, phản bác hay làm rõ cụ thể nào để giải quyết trực tiếp các cáo buộc, đặc biệt là tuyên bố rằng các nhà đầu tư thiên thần đã nhận 40 triệu BNB và người nội bộ kiểm soát 145 triệu BNB [13].
+
+Chính bài báo của Forbes cũng lưu ý rằng: "Mặc dù Forbes đã nhiều lần yêu cầu, Binance đã từ chối trả lời các câu hỏi về đợt ICO năm 2017 của mình hoặc cung cấp một bản kê chi tiết về BNB..." [12]. Binance cũng không trả lời yêu cầu bình luận của CryptoSlate về những phát hiện này [11].
+
+Đáng chú ý, Binance trước đây đã đệ đơn kiện tội phỉ báng chống lại Forbes vào năm 2020 về các ấn phẩm trước đó đưa ra những tuyên bố gây tổn hại về cấu trúc công ty của họ, mặc dù vụ kiện này sau đó đã được rút lại [14].
+
+### Tóm tắt
+
+Tóm lại, việc phân bổ 50% nguồn cung BNB còn lại có hai phiên bản:
+
+1.  **Phiên bản chính thức (theo Sách trắng):** 80 triệu BNB (40% tổng cung) được phân bổ cho đội ngũ Binance và 20 triệu BNB (10% tổng cung) được phân bổ cho các nhà đầu tư thiên thần.
+2.  **Phiên bản bị cáo buộc (theo Báo cáo của Forbes):** Các nhà đầu tư thiên thần thực sự nhận được 40 triệu BNB. Cùng với các khác biệt khác trong ICO, điều này dẫn đến việc những người sáng lập và nội bộ của Binance kiểm soát một lượng token lớn hơn nhiều so với kế hoạch ban đầu, ước tính lên tới 145 triệu BNB.
+
+Phiên bản thứ hai vẫn là một cáo buộc từ một cuộc điều tra báo chí và chưa được Binance xác nhận hay phản hồi công khai.
+
+## Kết luận về khung thời gian phát hành
+
+Dựa trên các phân tích và báo cáo điều tra, câu trả lời cho câu hỏi "thời gian để 50% số token BNB (Binance Coin) được phát hành ban đầu có lớn hơn hai năm không?" là **Có**. Mặc dù kế hoạch ban đầu là phân phối 50% tổng cung (100 triệu BNB) trong một sự kiện ICO ngắn diễn ra vào năm 2017, các bằng chứng cho thấy chỉ một phần rất nhỏ trong số token này thực sự được bán cho các nhà đầu tư công chúng. Phần lớn số token còn lại vẫn nằm dưới sự kiểm soát của Binance, do đó quá trình phát hành cho công chúng của toàn bộ 50% số token này đã không hoàn thành trong ICO và trên thực tế đã kéo dài vô thời hạn, vượt xa mốc hai năm.
+
+### 1. Kế hoạch Phân phối Token Ban đầu theo Sách trắng
+
+Sách trắng của Binance, được công bố vào năm 2017, đã vạch ra một kế hoạch chi tiết cho việc phân phối tổng cộng 200 triệu token BNB [1], [17]. Trong đó, 100 triệu BNB (tương đương 50% tổng cung) được dành cho việc bán công khai thông qua Sự kiện Phát hành Coin Lần đầu (ICO) [1], [3]. Mục tiêu là gây quỹ cho việc phát triển và vận hành sàn giao dịch Binance. Sự kiện ICO được lên lịch diễn ra từ ngày 26 tháng 6 đến ngày 3 tháng 7 năm 2017 [11]. Theo kế hoạch này, việc "phát hành" 50% tổng cung token cho các nhà đầu tư công chúng được dự kiến sẽ hoàn thành trong khoảng thời gian chỉ hơn một tuần. Nếu kế hoạch này được thực hiện đúng như công bố, câu trả lời cho câu hỏi nghiên cứu sẽ là "Không".
+
+### 2. Thực tế Phân phối theo Báo cáo Điều tra của Forbes
+
+Tuy nhiên, một báo cáo điều tra chuyên sâu của tạp chí Forbes, xuất bản vào tháng 10 năm 2023, đã đưa ra những phát hiện trái ngược hoàn toàn với kế hoạch ban đầu của Binance [12]. Báo cáo này, dựa trên sáu tháng phân tích dữ liệu blockchain để theo dõi dòng chảy của token BNB, đã chỉ ra sự khác biệt đáng kể giữa những gì được hứa hẹn trong sách trắng và những gì thực sự đã xảy ra [12], [11].
+
+Các phát hiện chính của báo cáo bao gồm:
+
+*   **Số lượng token thực tế bán ra trong ICO rất thấp:** Thay vì bán hết 100 triệu BNB cho công chúng, cuộc điều tra cho thấy chỉ có khoảng **10,78 triệu BNB** được phân phối cho các nhà đầu tư ICO. Con số này chỉ chiếm khoảng một phần mười so với số lượng đã cam kết [12], [11].
+*   **Số tiền huy động được thấp hơn công bố:** Do số lượng token bán ra ít hơn, báo cáo của Forbes cho rằng Binance chỉ huy động được khoảng 5 triệu USD từ ICO, thay vì con số 15 triệu USD mà cựu CEO Changpeng Zhao đã công bố [12], [11].
+*   **Phân phối cho nhà đầu tư thiên thần tăng gấp đôi:** Các nhà đầu tư thiên thần đã nhận được 40 triệu BNB, gấp đôi con số 20 triệu được nêu trong sách trắng [12].
+
+### 3. Hệ quả: Việc "Phát hành" 50% Token Đã Kéo dài Hơn Hai Năm
+
+Những phát hiện từ báo cáo của Forbes có ý nghĩa trực tiếp đến câu hỏi nghiên cứu. Nếu chỉ có 10,78 triệu trong số 100 triệu BNB được phân phối cho công chúng trong ICO năm 2017, điều này có nghĩa là gần 90 triệu token BNB dành cho việc bán công khai đã không đến được tay các nhà đầu tư như dự định. Thay vào đó, số token này được cho là vẫn nằm dưới sự kiểm soát của Binance [12], [11]. Phân tích blockchain của Forbes chỉ ra rằng Binance và các thành viên của mình kiểm soát khoảng 63,1 triệu BNB trong các ví bị nghi ngờ thuộc về Binance. Khi kết hợp với các ví đã được xác định, ước tính tổng số BNB mà Binance kiểm soát lên tới **116,9 triệu token**, trị giá khoảng 27,3 tỷ USD vào thời điểm báo cáo được công bố [15], [12]. Con số này tương đương với khoảng 76% tổng nguồn cung BNB đang lưu hành tại thời điểm đó [18].
+
+Điều này cho thấy rằng:
+
+1.  Quá trình phát hành 50% tổng cung ban đầu cho công chúng đã không hoàn thành trong khung thời gian ICO năm 2017.
+2.  Phần lớn số token này trên thực tế đã không được "phát hành" ra thị trường công khai mà được giữ lại bởi chính Binance.
+3.  Do đó, thời gian để toàn bộ 50% số token này được phát hành (nếu hiểu là phân phối ra ngoài cho các nhà đầu tư độc lập) đã kéo dài vô thời hạn và chắc chắn là **lớn hơn hai năm**.
+
+### Kết luận cuối cùng
+
+Dựa trên bằng chứng từ cuộc điều tra của Forbes, kế hoạch phát hành 50% tổng cung token BNB cho công chúng trong đợt ICO năm 2017 đã không được thực hiện như cam kết. Chỉ một phần nhỏ đã được bán ra, trong khi phần lớn còn lại vẫn nằm dưới sự kiểm soát của Binance. Vì vậy, thời gian cần thiết để phân phối toàn bộ 50% số token này cho công chúng đã vượt xa mốc hai năm, bởi vì quá trình này chưa bao giờ được hoàn thành theo đúng nghĩa đen.
+
+## References:
+
+[1] https://swanbitcoin.com/wp-content/uploads/2021/08/Exodus-Binance-Whitepaper.pdf  
+[2] https://streamflow.finance/blog/what-is-binance-coin-bnb-how-does-it-work/  
+[3] https://figment.io/insights/bnb-chain-tokenomics/  
+[4] https://cryptorank.io/ico/bnb  
+[5] https://www.theblock.co/linked/31035/binance-burns-24-million-worth-of-bnb-tokens-allocated-to-team  
+[6] https://www.investopedia.com/terms/b/binance-coin-bnb.asp  
+[7] https://www.binance.com/en/blog/all/356254016530468864  
+[8] https://wire.insiderfinance.io/binance-coin-bnb-a-comprehensive-analysis-aedab20c5aac  
+[9] https://www.findas.org/tokenomics-review/coins/the-tokenomics-of-bnb/r/8CycJKQV7ZpCczSgJj6o4k  
+[10] https://corporatefinanceinstitute.com/resources/cryptocurrency/binance-coin-bnb/  
+[11] https://cryptoslate.com/report-finds-that-binance-only-distributed-10-of-promised-bnb-tokens-during-ico/  
+[12] https://www.forbes.com/sites/digital-assets/2023/10/05/how-binance-turned-its-failed-token-ico-into-a-billion-dollar-windfall/  
+[13] https://finance.yahoo.com/news/binance-ico-raised-less-us-090836652.html  
+[14] https://www.newsbtc.com/news/binance-coin/binance-faces-scrutiny-over-alleged-ico-missteps-and-token-distribution-discrepancies/  
+[15] https://cryptoslate.com/binance-controls-76-of-bnb-in-circulation-report/  
+[16] https://newsbtc.com/news/binance/forbes-report-binance-ico/  
+[17] https://whitepaper.io/document/10/binance-whitepaper  
+[18] https://cryptorank.io/news/feed/3a972-forbes-likens-binance-to-ftx-argues-it-is-in-an-existential-crisis

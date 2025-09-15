@@ -1,0 +1,5 @@
+query: Dự án {project} có cơ chế khuyến khích thúc đẩy việc đóng góp của cộng đồng không? (cung cấp thanh khoản, tham gia quản trị)
+slug: dự-án-project-có-cơ-chế-khuyến-khích-thúc-đẩy-việc-đóng-góp-
+time: 20250915-133412
+len_chars: 34862
+status: success
